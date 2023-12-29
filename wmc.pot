@@ -1,0 +1,4033 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2015-11-06 16:52+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: WEBライダー <staff@web-rider.jp>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17 keni70_wp_standard_prototype_201511061530/404.php:17
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:123
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:68
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:222
+#: keni70_wp_standerd_rel1/404.php:17
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:76
+#: keni70_wp_standerd_rel1/module/meta.php:68
+#: keni70_wp_standerd_rel1/module/meta.php:222
+#: keni70_wp_standerd_rel2/404.php:17
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:123
+#: keni70_wp_standerd_rel2/module/meta.php:68
+#: keni70_wp_standerd_rel2/module/meta.php:222
+#: keni_701_wp_standerd_prototype_20151020/404.php:17
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:76
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:68
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:222
+#: keni_70_wp_standerd_rc1/404.php:17
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:76
+#: keni_70_wp_standerd_rc1/module/meta.php:68
+#: keni_70_wp_standerd_rc1/module/meta.php:222
+#: keni_70_wp_standerd_rc4/404.php:17
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:72
+#: keni_70_wp_standerd_rc4/module/meta.php:64
+#: keni_70_wp_standerd_rc4/module/meta.php:218
+#: keni_70_wp_standerd_rc7/404.php:17
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:76
+#: keni_70_wp_standerd_rc7/module/meta.php:68
+#: keni_70_wp_standerd_rc7/module/meta.php:222
+#: old_62/module/breadcrumbs.php:189 old_62/module/meta.php:75
+#: old_62/module/meta.php:232 rel1/404.php:17 rel1/module/breadcrumbs.php:76
+#: rel1/module/meta.php:68 rel1/module/meta.php:222
+#: wp_b1/module/breadcrumbs.php:66 wp_b1/module/breadcrumbs_20150616.php:132
+#: wp_b1/module/meta.php:67 wp_b1/module/meta.php:219 wp_b2/404.php:17
+#: wp_b2/module/breadcrumbs.php:72 wp_b2/module/meta.php:67
+#: wp_b2/module/meta.php:221 wp_b2_bu_150911/module/breadcrumbs.php:72
+#: wp_b2_bu_150911/module/meta.php:67 wp_b2_bu_150911/module/meta.php:219
+#: wp_b3/404.php:17 wp_b3/module/breadcrumbs.php:72 wp_b3/module/meta.php:67
+#: wp_b3/module/meta.php:221
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr ""
+
+#: 404.php:19 keni70_wp_standard_prototype_201511061530/404.php:19
+#: keni70_wp_standerd_rel1/404.php:19 keni70_wp_standerd_rel2/404.php:19
+#: keni_701_wp_standerd_prototype_20151020/404.php:19
+#: keni_70_wp_standerd_rc1/404.php:19 keni_70_wp_standerd_rc4/404.php:19
+#: keni_70_wp_standerd_rc7/404.php:19 rel1/404.php:19 wp_b2/404.php:19
+#: wp_b3/404.php:19 参考プログラム/twentyfifteen/404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: character.php:93
+#: keni70_wp_standard_prototype_201511061530/functions.php:1800
+#: keni70_wp_standard_prototype_201511061530/module/character.php:109
+#: keni70_wp_standerd_rel1/functions.php:1770
+#: keni70_wp_standerd_rel1/module/character.php:93
+#: keni70_wp_standerd_rel2/functions.php:1800
+#: keni70_wp_standerd_rel2/module/character.php:109
+#: keni_701_wp_standerd_prototype_20151020/functions.php:1771
+#: keni_701_wp_standerd_prototype_20151020/module/character.php:109
+#: keni_70_wp_standerd_rc1/functions.php:1770
+#: keni_70_wp_standerd_rc1/module/character.php:93
+#: keni_70_wp_standerd_rc4/functions.php:1770
+#: keni_70_wp_standerd_rc4/module/character.php:93
+#: keni_70_wp_standerd_rc7/functions.php:1781
+#: keni_70_wp_standerd_rc7/module/character.php:93 rel1/functions.php:1768
+#: rel1/module/character.php:93 wp_b1/functions.php:1614
+#: wp_b2/character.php:95 wp_b2/functions.php:2109
+#: wp_b2_bu_150911/functions.php:1725 wp_b3/functions.php:1823
+msgid "Character Setting"
+msgstr ""
+
+#: character.php:93
+#: keni70_wp_standard_prototype_201511061530/functions.php:1801
+#: keni70_wp_standard_prototype_201511061530/module/character.php:109
+#: keni70_wp_standerd_rel1/functions.php:1771
+#: keni70_wp_standerd_rel1/module/character.php:93
+#: keni70_wp_standerd_rel2/functions.php:1801
+#: keni70_wp_standerd_rel2/module/character.php:109
+#: keni_701_wp_standerd_prototype_20151020/functions.php:1772
+#: keni_701_wp_standerd_prototype_20151020/module/character.php:109
+#: keni_70_wp_standerd_rc1/functions.php:1771
+#: keni_70_wp_standerd_rc1/module/character.php:93
+#: keni_70_wp_standerd_rc4/functions.php:1771
+#: keni_70_wp_standerd_rc4/module/character.php:93
+#: keni_70_wp_standerd_rc7/functions.php:1782
+#: keni_70_wp_standerd_rc7/module/character.php:93 rel1/functions.php:1769
+#: rel1/module/character.php:93 wp_b1/functions.php:1615
+#: wp_b2/character.php:95 wp_b2/functions.php:2110
+#: wp_b2_bu_150911/functions.php:1726 wp_b3/functions.php:1824
+msgid "Character Registration"
+msgstr ""
+
+#: character.php:96 keni70_wp_standard_prototype_201511061530/comments.php:87
+#: keni70_wp_standard_prototype_201511061530/module/add_extra_fields_category.php:28
+#: keni70_wp_standard_prototype_201511061530/module/add_extra_fields_category.php:55
+#: keni70_wp_standard_prototype_201511061530/module/character.php:112
+#: keni70_wp_standerd_rel1/comments.php:87
+#: keni70_wp_standerd_rel1/module/add_extra_fields_category.php:28
+#: keni70_wp_standerd_rel1/module/add_extra_fields_category.php:55
+#: keni70_wp_standerd_rel1/module/character.php:96
+#: keni70_wp_standerd_rel2/comments.php:87
+#: keni70_wp_standerd_rel2/module/add_extra_fields_category.php:28
+#: keni70_wp_standerd_rel2/module/add_extra_fields_category.php:55
+#: keni70_wp_standerd_rel2/module/character.php:112
+#: keni_701_wp_standerd_prototype_20151020/comments.php:87
+#: keni_701_wp_standerd_prototype_20151020/module/add_extra_fields_category.php:28
+#: keni_701_wp_standerd_prototype_20151020/module/add_extra_fields_category.php:55
+#: keni_701_wp_standerd_prototype_20151020/module/character.php:112
+#: keni_70_wp_standerd_rc1/comments.php:87
+#: keni_70_wp_standerd_rc1/module/add_extra_fields_category.php:28
+#: keni_70_wp_standerd_rc1/module/add_extra_fields_category.php:55
+#: keni_70_wp_standerd_rc1/module/character.php:96
+#: keni_70_wp_standerd_rc4/comments.php:85
+#: keni_70_wp_standerd_rc4/module/add_extra_fields_category.php:28
+#: keni_70_wp_standerd_rc4/module/add_extra_fields_category.php:55
+#: keni_70_wp_standerd_rc4/module/character.php:96
+#: keni_70_wp_standerd_rc7/comments.php:85
+#: keni_70_wp_standerd_rc7/module/add_extra_fields_category.php:28
+#: keni_70_wp_standerd_rc7/module/add_extra_fields_category.php:55
+#: keni_70_wp_standerd_rc7/module/character.php:96 old_62/comments.php:76
+#: old_62/module/add_extra_fields_category.php:28
+#: old_62/module/add_extra_fields_category.php:55 rel1/comments.php:87
+#: rel1/module/add_extra_fields_category.php:28
+#: rel1/module/add_extra_fields_category.php:55 rel1/module/character.php:96
+#: wp_b1/module/add_extra_fields_category.php:28
+#: wp_b1/module/add_extra_fields_category.php:55 wp_b2/character.php:98
+#: wp_b2/comments.php:85 wp_b2/module/add_extra_fields_category.php:28
+#: wp_b2/module/add_extra_fields_category.php:55
+#: wp_b2_bu_150911/comments.php:80
+#: wp_b2_bu_150911/module/add_extra_fields_category.php:28
+#: wp_b2_bu_150911/module/add_extra_fields_category.php:55
+#: wp_b3/comments.php:85 wp_b3/module/add_extra_fields_category.php:28
+#: wp_b3/module/add_extra_fields_category.php:55
+#: 参考プログラム/contact-form-7/modules/acceptance.php:141
+#: 参考プログラム/contact-form-7/modules/captcha.php:213
+#: 参考プログラム/contact-form-7/modules/checkbox.php:295
+#: 参考プログラム/contact-form-7/modules/date.php:158
+#: 参考プログラム/contact-form-7/modules/file.php:233
+#: 参考プログラム/contact-form-7/modules/number.php:168
+#: 参考プログラム/contact-form-7/modules/quiz.php:172
+#: 参考プログラム/contact-form-7/modules/select.php:171
+#: 参考プログラム/contact-form-7/modules/text.php:231
+#: 参考プログラム/contact-form-7/modules/textarea.php:137
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:597
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:612
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:803
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:815
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:888
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:901
+#: 参考プログラム/xeory_extension/comments.php:55
+msgid "Name"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:16
+#: keni70_wp_standerd_rel1/comments.php:16
+#: keni70_wp_standerd_rel2/comments.php:16
+#: keni_701_wp_standerd_prototype_20151020/comments.php:16
+#: keni_70_wp_standerd_rc1/comments.php:16
+#: keni_70_wp_standerd_rc4/comments.php:16
+#: keni_70_wp_standerd_rc7/comments.php:16 old_62/comments.php:16
+#: rel1/comments.php:16 wp_b2/comments.php:16 wp_b2_bu_150911/comments.php:16
+#: wp_b3/comments.php:16
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:29
+#: keni70_wp_standerd_rel1/comments.php:29
+#: keni70_wp_standerd_rel2/comments.php:29
+#: keni_701_wp_standerd_prototype_20151020/comments.php:29
+#: keni_70_wp_standerd_rc1/comments.php:29
+#: keni_70_wp_standerd_rc4/comments.php:29
+#: keni_70_wp_standerd_rc7/comments.php:29 rel1/comments.php:29
+#: wp_b2/comments.php:29 wp_b3/comments.php:29
+#, php-format
+msgid "One response to %s"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:32
+#: keni70_wp_standerd_rel1/comments.php:32
+#: keni70_wp_standerd_rel2/comments.php:32
+#: keni_701_wp_standerd_prototype_20151020/comments.php:32
+#: keni_70_wp_standerd_rc1/comments.php:32
+#: keni_70_wp_standerd_rc4/comments.php:32
+#: keni_70_wp_standerd_rc7/comments.php:32 rel1/comments.php:32
+#: wp_b2/comments.php:32 wp_b3/comments.php:32
+#, php-format
+msgid "%1$s response to %2$s"
+msgid_plural "%1$s responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:59
+#: keni70_wp_standerd_rel1/comments.php:59
+#: keni70_wp_standerd_rel2/comments.php:59
+#: keni_701_wp_standerd_prototype_20151020/comments.php:59
+#: keni_70_wp_standerd_rc1/comments.php:59
+#: keni_70_wp_standerd_rc4/comments.php:57
+#: keni_70_wp_standerd_rc7/comments.php:57 old_62/comments.php:48
+#: rel1/comments.php:59 wp_b2/comments.php:57 wp_b2_bu_150911/comments.php:52
+#: wp_b3/comments.php:57 参考プログラム/twentyfifteen/comments.php:53
+#: 参考プログラム/xeory_extension/comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:68
+#: keni70_wp_standerd_rel1/comments.php:68
+#: keni70_wp_standerd_rel2/comments.php:68
+#: keni_701_wp_standerd_prototype_20151020/comments.php:68
+#: keni_70_wp_standerd_rc1/comments.php:68
+#: keni_70_wp_standerd_rc4/comments.php:66
+#: keni_70_wp_standerd_rc7/comments.php:66 old_62/comments.php:57
+#: rel1/comments.php:68 wp_b2/comments.php:66 wp_b2_bu_150911/comments.php:61
+#: wp_b3/comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:68
+#: keni70_wp_standerd_rel1/comments.php:68
+#: keni70_wp_standerd_rel2/comments.php:68
+#: keni_701_wp_standerd_prototype_20151020/comments.php:68
+#: keni_70_wp_standerd_rc1/comments.php:68
+#: keni_70_wp_standerd_rc4/comments.php:66
+#: keni_70_wp_standerd_rc7/comments.php:66 old_62/comments.php:57
+#: rel1/comments.php:68 wp_b2/comments.php:66 wp_b2_bu_150911/comments.php:61
+#: wp_b3/comments.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:75
+#: keni70_wp_standerd_rel1/comments.php:75
+#: keni70_wp_standerd_rel2/comments.php:75
+#: keni_701_wp_standerd_prototype_20151020/comments.php:75
+#: keni_70_wp_standerd_rc1/comments.php:75
+#: keni_70_wp_standerd_rc4/comments.php:73
+#: keni_70_wp_standerd_rc7/comments.php:73 old_62/comments.php:64
+#: rel1/comments.php:75 wp_b2/comments.php:73 wp_b2_bu_150911/comments.php:68
+#: wp_b3/comments.php:73
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:82
+#: keni70_wp_standerd_rel1/comments.php:82
+#: keni70_wp_standerd_rel2/comments.php:82
+#: keni_701_wp_standerd_prototype_20151020/comments.php:82
+#: keni_70_wp_standerd_rc1/comments.php:82
+#: keni_70_wp_standerd_rc4/comments.php:80
+#: keni_70_wp_standerd_rc7/comments.php:80 old_62/comments.php:71
+#: rel1/comments.php:82 wp_b2/comments.php:80 wp_b2_bu_150911/comments.php:75
+#: wp_b3/comments.php:80
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:82
+#: keni70_wp_standerd_rel1/comments.php:82
+#: keni70_wp_standerd_rel2/comments.php:82
+#: keni_701_wp_standerd_prototype_20151020/comments.php:82
+#: keni_70_wp_standerd_rc1/comments.php:82
+#: keni_70_wp_standerd_rc4/comments.php:80
+#: keni_70_wp_standerd_rc7/comments.php:80 old_62/comments.php:71
+#: rel1/comments.php:82 wp_b2/comments.php:80 wp_b2_bu_150911/comments.php:75
+#: wp_b3/comments.php:80
+msgid "Log out of this account"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:82
+#: keni70_wp_standerd_rel1/comments.php:82
+#: keni70_wp_standerd_rel2/comments.php:82
+#: keni_701_wp_standerd_prototype_20151020/comments.php:82
+#: keni_70_wp_standerd_rc1/comments.php:82
+#: keni_70_wp_standerd_rc4/comments.php:80
+#: keni_70_wp_standerd_rc7/comments.php:80 old_62/comments.php:71
+#: rel1/comments.php:82 wp_b2/comments.php:80 wp_b2_bu_150911/comments.php:75
+#: wp_b3/comments.php:80
+msgid "Log out &raquo;"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:87
+#: keni70_wp_standard_prototype_201511061530/comments.php:92
+#: keni70_wp_standerd_rel1/comments.php:87
+#: keni70_wp_standerd_rel1/comments.php:92
+#: keni70_wp_standerd_rel2/comments.php:87
+#: keni70_wp_standerd_rel2/comments.php:92
+#: keni_701_wp_standerd_prototype_20151020/comments.php:87
+#: keni_701_wp_standerd_prototype_20151020/comments.php:92
+#: keni_70_wp_standerd_rc1/comments.php:87
+#: keni_70_wp_standerd_rc1/comments.php:92
+#: keni_70_wp_standerd_rc4/comments.php:85
+#: keni_70_wp_standerd_rc4/comments.php:90
+#: keni_70_wp_standerd_rc7/comments.php:85
+#: keni_70_wp_standerd_rc7/comments.php:90 old_62/comments.php:76
+#: old_62/comments.php:79 rel1/comments.php:87 rel1/comments.php:92
+#: wp_b2/comments.php:85 wp_b2/comments.php:90 wp_b2_bu_150911/comments.php:80
+#: wp_b2_bu_150911/comments.php:83 wp_b3/comments.php:85 wp_b3/comments.php:90
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:24
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:27
+msgid "(required)"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:92
+#: keni70_wp_standerd_rel1/comments.php:92
+#: keni70_wp_standerd_rel2/comments.php:92
+#: keni_701_wp_standerd_prototype_20151020/comments.php:92
+#: keni_70_wp_standerd_rc1/comments.php:92
+#: keni_70_wp_standerd_rc4/comments.php:90
+#: keni_70_wp_standerd_rc7/comments.php:90 old_62/comments.php:79
+#: rel1/comments.php:92 wp_b2/comments.php:90 wp_b2_bu_150911/comments.php:83
+#: wp_b3/comments.php:90
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:97
+#: keni70_wp_standerd_rel1/comments.php:97
+#: keni70_wp_standerd_rel2/comments.php:97
+#: keni_701_wp_standerd_prototype_20151020/comments.php:97
+#: keni_70_wp_standerd_rc1/comments.php:97
+#: keni_70_wp_standerd_rc4/comments.php:95
+#: keni_70_wp_standerd_rc7/comments.php:95 old_62/comments.php:82
+#: rel1/comments.php:97 wp_b2/comments.php:95 wp_b2_bu_150911/comments.php:86
+#: wp_b3/comments.php:95
+msgid "Website"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:103
+#: keni70_wp_standerd_rel1/comments.php:103
+#: keni70_wp_standerd_rel2/comments.php:103
+#: keni_701_wp_standerd_prototype_20151020/comments.php:103
+#: keni_70_wp_standerd_rc1/comments.php:103
+#: keni_70_wp_standerd_rc4/comments.php:101
+#: keni_70_wp_standerd_rc7/comments.php:101 old_62/comments.php:86
+#: rel1/comments.php:103 wp_b2/comments.php:101
+#: wp_b2_bu_150911/comments.php:90 wp_b3/comments.php:101
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/comments.php:107
+#: keni70_wp_standerd_rel1/comments.php:107
+#: keni70_wp_standerd_rel2/comments.php:107
+#: keni_701_wp_standerd_prototype_20151020/comments.php:107
+#: keni_70_wp_standerd_rc1/comments.php:107
+#: keni_70_wp_standerd_rc4/comments.php:105
+#: keni_70_wp_standerd_rc7/comments.php:105 old_62/comments.php:90
+#: rel1/comments.php:107 wp_b2/comments.php:105
+#: wp_b2_bu_150911/comments.php:94 wp_b3/comments.php:105
+msgid "Submit Comment"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:38
+#: keni70_wp_standerd_rel1/functions.php:33
+#: keni70_wp_standerd_rel2/functions.php:38
+#: keni_701_wp_standerd_prototype_20151020/functions.php:36
+#: keni_70_wp_standerd_rc1/functions.php:33
+#: keni_70_wp_standerd_rc4/functions.php:33
+#: keni_70_wp_standerd_rc7/functions.php:33 rel1/functions.php:33
+#: wp_b2/functions.php:24 wp_b3/functions.php:24
+msgid "Top Menu"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:39
+#: keni70_wp_standerd_rel1/functions.php:34
+#: keni70_wp_standerd_rel2/functions.php:39
+#: keni_701_wp_standerd_prototype_20151020/functions.php:37
+#: keni_70_wp_standerd_rc1/functions.php:34
+#: keni_70_wp_standerd_rc4/functions.php:34
+#: keni_70_wp_standerd_rc7/functions.php:34 rel1/functions.php:34
+#: wp_b2/functions.php:25 wp_b3/functions.php:25
+msgid "Footer Menu"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:100
+#: keni70_wp_standerd_rel1/functions.php:97
+#: keni70_wp_standerd_rel2/functions.php:100
+#: keni_701_wp_standerd_prototype_20151020/functions.php:98
+#: keni_70_wp_standerd_rc1/functions.php:97
+#: keni_70_wp_standerd_rc4/functions.php:97
+#: keni_70_wp_standerd_rc7/functions.php:104 rel1/functions.php:95
+#: wp_b2/functions.php:106 wp_b3/functions.php:104
+msgid "Sub Content"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:218
+#: keni70_wp_standard_prototype_201511061530/functions.php:220
+#: keni70_wp_standard_prototype_201511061530/functions.php:222
+#: keni70_wp_standard_prototype_201511061530/functions.php:224
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:138
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:145
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:148
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:153
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:156
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:159
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:164
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:165
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:168
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:171
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:180
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:35
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:49
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:51
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:53
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:181
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:186
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:188
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:190
+#: keni70_wp_standerd_rel1/functions.php:213
+#: keni70_wp_standerd_rel1/functions.php:215
+#: keni70_wp_standerd_rel1/functions.php:217
+#: keni70_wp_standerd_rel1/functions.php:219
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:90
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:97
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:100
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:105
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:108
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:111
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:116
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:117
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:120
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:123
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:132
+#: keni70_wp_standerd_rel1/module/meta.php:35
+#: keni70_wp_standerd_rel1/module/meta.php:49
+#: keni70_wp_standerd_rel1/module/meta.php:51
+#: keni70_wp_standerd_rel1/module/meta.php:53
+#: keni70_wp_standerd_rel1/module/meta.php:181
+#: keni70_wp_standerd_rel1/module/meta.php:186
+#: keni70_wp_standerd_rel1/module/meta.php:188
+#: keni70_wp_standerd_rel1/module/meta.php:190
+#: keni70_wp_standerd_rel2/functions.php:218
+#: keni70_wp_standerd_rel2/functions.php:220
+#: keni70_wp_standerd_rel2/functions.php:222
+#: keni70_wp_standerd_rel2/functions.php:224
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:138
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:145
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:148
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:153
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:156
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:159
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:164
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:165
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:168
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:171
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:180
+#: keni70_wp_standerd_rel2/module/meta.php:35
+#: keni70_wp_standerd_rel2/module/meta.php:49
+#: keni70_wp_standerd_rel2/module/meta.php:51
+#: keni70_wp_standerd_rel2/module/meta.php:53
+#: keni70_wp_standerd_rel2/module/meta.php:181
+#: keni70_wp_standerd_rel2/module/meta.php:186
+#: keni70_wp_standerd_rel2/module/meta.php:188
+#: keni70_wp_standerd_rel2/module/meta.php:190
+#: keni_701_wp_standerd_prototype_20151020/functions.php:214
+#: keni_701_wp_standerd_prototype_20151020/functions.php:216
+#: keni_701_wp_standerd_prototype_20151020/functions.php:218
+#: keni_701_wp_standerd_prototype_20151020/functions.php:220
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:90
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:97
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:100
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:105
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:108
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:111
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:116
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:117
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:120
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:123
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:132
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:35
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:49
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:51
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:53
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:181
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:186
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:188
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:190
+#: keni_70_wp_standerd_rc1/functions.php:213
+#: keni_70_wp_standerd_rc1/functions.php:215
+#: keni_70_wp_standerd_rc1/functions.php:217
+#: keni_70_wp_standerd_rc1/functions.php:219
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:90
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:97
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:100
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:105
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:108
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:111
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:116
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:117
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:120
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:123
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:132
+#: keni_70_wp_standerd_rc1/module/meta.php:35
+#: keni_70_wp_standerd_rc1/module/meta.php:49
+#: keni_70_wp_standerd_rc1/module/meta.php:51
+#: keni_70_wp_standerd_rc1/module/meta.php:53
+#: keni_70_wp_standerd_rc1/module/meta.php:181
+#: keni_70_wp_standerd_rc1/module/meta.php:186
+#: keni_70_wp_standerd_rc1/module/meta.php:188
+#: keni_70_wp_standerd_rc1/module/meta.php:190
+#: keni_70_wp_standerd_rc4/functions.php:213
+#: keni_70_wp_standerd_rc4/functions.php:215
+#: keni_70_wp_standerd_rc4/functions.php:217
+#: keni_70_wp_standerd_rc4/functions.php:219
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:86
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:93
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:96
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:101
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:104
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:107
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:112
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:113
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:116
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:119
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:128
+#: keni_70_wp_standerd_rc4/module/meta.php:35
+#: keni_70_wp_standerd_rc4/module/meta.php:45
+#: keni_70_wp_standerd_rc4/module/meta.php:47
+#: keni_70_wp_standerd_rc4/module/meta.php:49
+#: keni_70_wp_standerd_rc4/module/meta.php:177
+#: keni_70_wp_standerd_rc4/module/meta.php:182
+#: keni_70_wp_standerd_rc4/module/meta.php:184
+#: keni_70_wp_standerd_rc4/module/meta.php:186
+#: keni_70_wp_standerd_rc7/functions.php:220
+#: keni_70_wp_standerd_rc7/functions.php:222
+#: keni_70_wp_standerd_rc7/functions.php:224
+#: keni_70_wp_standerd_rc7/functions.php:226
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:90
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:97
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:100
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:105
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:108
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:111
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:116
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:117
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:120
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:123
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:132
+#: keni_70_wp_standerd_rc7/module/meta.php:35
+#: keni_70_wp_standerd_rc7/module/meta.php:49
+#: keni_70_wp_standerd_rc7/module/meta.php:51
+#: keni_70_wp_standerd_rc7/module/meta.php:53
+#: keni_70_wp_standerd_rc7/module/meta.php:181
+#: keni_70_wp_standerd_rc7/module/meta.php:186
+#: keni_70_wp_standerd_rc7/module/meta.php:188
+#: keni_70_wp_standerd_rc7/module/meta.php:190 old_62/functions.php:222
+#: old_62/functions.php:225 old_62/functions.php:227 old_62/functions.php:229
+#: old_62/module/breadcrumbs.php:81 old_62/module/breadcrumbs.php:92
+#: old_62/module/breadcrumbs.php:99 old_62/module/breadcrumbs.php:106
+#: old_62/module/breadcrumbs.php:113 old_62/module/breadcrumbs.php:120
+#: old_62/module/breadcrumbs.php:127 old_62/module/breadcrumbs.php:156
+#: old_62/module/meta.php:46 old_62/module/meta.php:56
+#: old_62/module/meta.php:58 old_62/module/meta.php:60
+#: old_62/module/meta.php:191 old_62/module/meta.php:196
+#: old_62/module/meta.php:198 old_62/module/meta.php:200
+#: rel1/functions.php:211 rel1/functions.php:213 rel1/functions.php:215
+#: rel1/functions.php:217 rel1/module/breadcrumbs.php:90
+#: rel1/module/breadcrumbs.php:97 rel1/module/breadcrumbs.php:100
+#: rel1/module/breadcrumbs.php:105 rel1/module/breadcrumbs.php:108
+#: rel1/module/breadcrumbs.php:111 rel1/module/breadcrumbs.php:116
+#: rel1/module/breadcrumbs.php:117 rel1/module/breadcrumbs.php:120
+#: rel1/module/breadcrumbs.php:123 rel1/module/breadcrumbs.php:132
+#: rel1/module/meta.php:35 rel1/module/meta.php:49 rel1/module/meta.php:51
+#: rel1/module/meta.php:53 rel1/module/meta.php:181 rel1/module/meta.php:186
+#: rel1/module/meta.php:188 rel1/module/meta.php:190 wp_b1/functions.php:233
+#: wp_b1/functions.php:235 wp_b1/functions.php:237 wp_b1/functions.php:239
+#: wp_b1/module/breadcrumbs.php:80 wp_b1/module/breadcrumbs.php:87
+#: wp_b1/module/breadcrumbs.php:90 wp_b1/module/breadcrumbs.php:95
+#: wp_b1/module/breadcrumbs.php:98 wp_b1/module/breadcrumbs.php:101
+#: wp_b1/module/breadcrumbs.php:106 wp_b1/module/breadcrumbs.php:107
+#: wp_b1/module/breadcrumbs.php:110 wp_b1/module/breadcrumbs.php:113
+#: wp_b1/module/breadcrumbs.php:122 wp_b1/module/breadcrumbs_20150616.php:59
+#: wp_b1/module/breadcrumbs_20150616.php:66
+#: wp_b1/module/breadcrumbs_20150616.php:69
+#: wp_b1/module/breadcrumbs_20150616.php:74
+#: wp_b1/module/breadcrumbs_20150616.php:77
+#: wp_b1/module/breadcrumbs_20150616.php:82
+#: wp_b1/module/breadcrumbs_20150616.php:85
+#: wp_b1/module/breadcrumbs_20150616.php:109 wp_b1/module/meta.php:39
+#: wp_b1/module/meta.php:48 wp_b1/module/meta.php:50 wp_b1/module/meta.php:52
+#: wp_b1/module/meta.php:178 wp_b1/module/meta.php:183
+#: wp_b1/module/meta.php:185 wp_b1/module/meta.php:187 wp_b2/functions.php:308
+#: wp_b2/functions.php:310 wp_b2/functions.php:312 wp_b2/functions.php:314
+#: wp_b2/module/breadcrumbs.php:86 wp_b2/module/breadcrumbs.php:93
+#: wp_b2/module/breadcrumbs.php:96 wp_b2/module/breadcrumbs.php:101
+#: wp_b2/module/breadcrumbs.php:104 wp_b2/module/breadcrumbs.php:107
+#: wp_b2/module/breadcrumbs.php:112 wp_b2/module/breadcrumbs.php:113
+#: wp_b2/module/breadcrumbs.php:116 wp_b2/module/breadcrumbs.php:119
+#: wp_b2/module/breadcrumbs.php:128 wp_b2/module/meta.php:39
+#: wp_b2/module/meta.php:48 wp_b2/module/meta.php:50 wp_b2/module/meta.php:52
+#: wp_b2/module/meta.php:180 wp_b2/module/meta.php:185
+#: wp_b2/module/meta.php:187 wp_b2/module/meta.php:189
+#: wp_b2_bu_150911/functions.php:315 wp_b2_bu_150911/functions.php:317
+#: wp_b2_bu_150911/functions.php:319 wp_b2_bu_150911/functions.php:321
+#: wp_b2_bu_150911/module/breadcrumbs.php:86
+#: wp_b2_bu_150911/module/breadcrumbs.php:93
+#: wp_b2_bu_150911/module/breadcrumbs.php:96
+#: wp_b2_bu_150911/module/breadcrumbs.php:101
+#: wp_b2_bu_150911/module/breadcrumbs.php:104
+#: wp_b2_bu_150911/module/breadcrumbs.php:107
+#: wp_b2_bu_150911/module/breadcrumbs.php:112
+#: wp_b2_bu_150911/module/breadcrumbs.php:113
+#: wp_b2_bu_150911/module/breadcrumbs.php:116
+#: wp_b2_bu_150911/module/breadcrumbs.php:119
+#: wp_b2_bu_150911/module/breadcrumbs.php:128
+#: wp_b2_bu_150911/module/meta.php:39 wp_b2_bu_150911/module/meta.php:48
+#: wp_b2_bu_150911/module/meta.php:50 wp_b2_bu_150911/module/meta.php:52
+#: wp_b2_bu_150911/module/meta.php:178 wp_b2_bu_150911/module/meta.php:183
+#: wp_b2_bu_150911/module/meta.php:185 wp_b2_bu_150911/module/meta.php:187
+#: wp_b3/functions.php:303 wp_b3/functions.php:305 wp_b3/functions.php:307
+#: wp_b3/functions.php:309 wp_b3/module/breadcrumbs.php:86
+#: wp_b3/module/breadcrumbs.php:93 wp_b3/module/breadcrumbs.php:96
+#: wp_b3/module/breadcrumbs.php:101 wp_b3/module/breadcrumbs.php:104
+#: wp_b3/module/breadcrumbs.php:107 wp_b3/module/breadcrumbs.php:112
+#: wp_b3/module/breadcrumbs.php:113 wp_b3/module/breadcrumbs.php:116
+#: wp_b3/module/breadcrumbs.php:119 wp_b3/module/breadcrumbs.php:128
+#: wp_b3/module/meta.php:39 wp_b3/module/meta.php:48 wp_b3/module/meta.php:50
+#: wp_b3/module/meta.php:52 wp_b3/module/meta.php:180
+#: wp_b3/module/meta.php:185 wp_b3/module/meta.php:187
+#: wp_b3/module/meta.php:189
+#, php-format
+msgid "Archive List for %s"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:220
+#: keni70_wp_standard_prototype_201511061530/functions.php:328
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:168
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:171
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:49
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:186
+#: keni70_wp_standerd_rel1/functions.php:215
+#: keni70_wp_standerd_rel1/functions.php:303
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:120
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:123
+#: keni70_wp_standerd_rel1/module/meta.php:49
+#: keni70_wp_standerd_rel1/module/meta.php:186
+#: keni70_wp_standerd_rel2/functions.php:220
+#: keni70_wp_standerd_rel2/functions.php:328
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:168
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:171
+#: keni70_wp_standerd_rel2/module/meta.php:49
+#: keni70_wp_standerd_rel2/module/meta.php:186
+#: keni_701_wp_standerd_prototype_20151020/functions.php:216
+#: keni_701_wp_standerd_prototype_20151020/functions.php:304
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:120
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:123
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:49
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:186
+#: keni_70_wp_standerd_rc1/functions.php:215
+#: keni_70_wp_standerd_rc1/functions.php:303
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:120
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:123
+#: keni_70_wp_standerd_rc1/module/meta.php:49
+#: keni_70_wp_standerd_rc1/module/meta.php:186
+#: keni_70_wp_standerd_rc4/functions.php:215
+#: keni_70_wp_standerd_rc4/functions.php:303
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:116
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:119
+#: keni_70_wp_standerd_rc4/module/meta.php:45
+#: keni_70_wp_standerd_rc4/module/meta.php:182
+#: keni_70_wp_standerd_rc7/functions.php:222
+#: keni_70_wp_standerd_rc7/functions.php:310
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:120
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:123
+#: keni_70_wp_standerd_rc7/module/meta.php:49
+#: keni_70_wp_standerd_rc7/module/meta.php:186 old_62/functions.php:225
+#: old_62/module/breadcrumbs.php:120 old_62/module/breadcrumbs.php:127
+#: old_62/module/meta.php:56 old_62/module/meta.php:196 rel1/functions.php:213
+#: rel1/functions.php:301 rel1/module/breadcrumbs.php:120
+#: rel1/module/breadcrumbs.php:123 rel1/module/meta.php:49
+#: rel1/module/meta.php:186 wp_b1/functions.php:235 wp_b1/functions.php:305
+#: wp_b1/module/breadcrumbs.php:110 wp_b1/module/breadcrumbs.php:113
+#: wp_b1/module/breadcrumbs_20150616.php:82
+#: wp_b1/module/breadcrumbs_20150616.php:85 wp_b1/module/meta.php:48
+#: wp_b1/module/meta.php:183 wp_b2/functions.php:310 wp_b2/functions.php:398
+#: wp_b2/module/breadcrumbs.php:116 wp_b2/module/breadcrumbs.php:119
+#: wp_b2/module/meta.php:48 wp_b2/module/meta.php:185
+#: wp_b2_bu_150911/functions.php:317 wp_b2_bu_150911/functions.php:399
+#: wp_b2_bu_150911/module/breadcrumbs.php:116
+#: wp_b2_bu_150911/module/breadcrumbs.php:119
+#: wp_b2_bu_150911/module/meta.php:48 wp_b2_bu_150911/module/meta.php:183
+#: wp_b3/functions.php:305 wp_b3/functions.php:393
+#: wp_b3/module/breadcrumbs.php:116 wp_b3/module/breadcrumbs.php:119
+#: wp_b3/module/meta.php:48 wp_b3/module/meta.php:185
+msgid "F j, Y"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:222
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:156
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:159
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:165
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:51
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:188
+#: keni70_wp_standerd_rel1/functions.php:217
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:108
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:111
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:117
+#: keni70_wp_standerd_rel1/module/meta.php:51
+#: keni70_wp_standerd_rel1/module/meta.php:188
+#: keni70_wp_standerd_rel2/functions.php:222
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:156
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:159
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:165
+#: keni70_wp_standerd_rel2/module/meta.php:51
+#: keni70_wp_standerd_rel2/module/meta.php:188
+#: keni_701_wp_standerd_prototype_20151020/functions.php:218
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:108
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:111
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:117
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:51
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:188
+#: keni_70_wp_standerd_rc1/functions.php:217
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:108
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:111
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:117
+#: keni_70_wp_standerd_rc1/module/meta.php:51
+#: keni_70_wp_standerd_rc1/module/meta.php:188
+#: keni_70_wp_standerd_rc4/functions.php:217
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:104
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:107
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:113
+#: keni_70_wp_standerd_rc4/module/meta.php:47
+#: keni_70_wp_standerd_rc4/module/meta.php:184
+#: keni_70_wp_standerd_rc7/functions.php:224
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:108
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:111
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:117
+#: keni_70_wp_standerd_rc7/module/meta.php:51
+#: keni_70_wp_standerd_rc7/module/meta.php:188 old_62/functions.php:227
+#: old_62/module/breadcrumbs.php:106 old_62/module/breadcrumbs.php:113
+#: old_62/module/meta.php:58 old_62/module/meta.php:198 rel1/functions.php:215
+#: rel1/module/breadcrumbs.php:108 rel1/module/breadcrumbs.php:111
+#: rel1/module/breadcrumbs.php:117 rel1/module/meta.php:51
+#: rel1/module/meta.php:188 wp_b1/functions.php:237
+#: wp_b1/module/breadcrumbs.php:98 wp_b1/module/breadcrumbs.php:101
+#: wp_b1/module/breadcrumbs.php:107 wp_b1/module/breadcrumbs_20150616.php:74
+#: wp_b1/module/breadcrumbs_20150616.php:77 wp_b1/module/meta.php:50
+#: wp_b1/module/meta.php:185 wp_b2/functions.php:312
+#: wp_b2/module/breadcrumbs.php:104 wp_b2/module/breadcrumbs.php:107
+#: wp_b2/module/breadcrumbs.php:113 wp_b2/module/meta.php:50
+#: wp_b2/module/meta.php:187 wp_b2_bu_150911/functions.php:319
+#: wp_b2_bu_150911/module/breadcrumbs.php:104
+#: wp_b2_bu_150911/module/breadcrumbs.php:107
+#: wp_b2_bu_150911/module/breadcrumbs.php:113
+#: wp_b2_bu_150911/module/meta.php:50 wp_b2_bu_150911/module/meta.php:185
+#: wp_b3/functions.php:307 wp_b3/module/breadcrumbs.php:104
+#: wp_b3/module/breadcrumbs.php:107 wp_b3/module/breadcrumbs.php:113
+#: wp_b3/module/meta.php:50 wp_b3/module/meta.php:187
+msgid "F Y"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:224
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:145
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:148
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:153
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:164
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:53
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:190
+#: keni70_wp_standerd_rel1/functions.php:219
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:97
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:100
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:105
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:116
+#: keni70_wp_standerd_rel1/module/meta.php:53
+#: keni70_wp_standerd_rel1/module/meta.php:190
+#: keni70_wp_standerd_rel2/functions.php:224
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:145
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:148
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:153
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:164
+#: keni70_wp_standerd_rel2/module/meta.php:53
+#: keni70_wp_standerd_rel2/module/meta.php:190
+#: keni_701_wp_standerd_prototype_20151020/functions.php:220
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:97
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:100
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:105
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:116
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:53
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:190
+#: keni_70_wp_standerd_rc1/functions.php:219
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:97
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:100
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:105
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:116
+#: keni_70_wp_standerd_rc1/module/meta.php:53
+#: keni_70_wp_standerd_rc1/module/meta.php:190
+#: keni_70_wp_standerd_rc4/functions.php:219
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:93
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:96
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:101
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:112
+#: keni_70_wp_standerd_rc4/module/meta.php:49
+#: keni_70_wp_standerd_rc4/module/meta.php:186
+#: keni_70_wp_standerd_rc7/functions.php:226
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:97
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:100
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:105
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:116
+#: keni_70_wp_standerd_rc7/module/meta.php:53
+#: keni_70_wp_standerd_rc7/module/meta.php:190 old_62/functions.php:229
+#: old_62/module/breadcrumbs.php:92 old_62/module/breadcrumbs.php:99
+#: old_62/module/meta.php:60 old_62/module/meta.php:200 rel1/functions.php:217
+#: rel1/module/breadcrumbs.php:97 rel1/module/breadcrumbs.php:100
+#: rel1/module/breadcrumbs.php:105 rel1/module/breadcrumbs.php:116
+#: rel1/module/meta.php:53 rel1/module/meta.php:190 wp_b1/functions.php:239
+#: wp_b1/module/breadcrumbs.php:87 wp_b1/module/breadcrumbs.php:90
+#: wp_b1/module/breadcrumbs.php:95 wp_b1/module/breadcrumbs.php:106
+#: wp_b1/module/breadcrumbs_20150616.php:66
+#: wp_b1/module/breadcrumbs_20150616.php:69 wp_b1/module/meta.php:52
+#: wp_b1/module/meta.php:187 wp_b2/functions.php:314
+#: wp_b2/module/breadcrumbs.php:93 wp_b2/module/breadcrumbs.php:96
+#: wp_b2/module/breadcrumbs.php:101 wp_b2/module/breadcrumbs.php:112
+#: wp_b2/module/meta.php:52 wp_b2/module/meta.php:189
+#: wp_b2_bu_150911/functions.php:321 wp_b2_bu_150911/module/breadcrumbs.php:93
+#: wp_b2_bu_150911/module/breadcrumbs.php:96
+#: wp_b2_bu_150911/module/breadcrumbs.php:101
+#: wp_b2_bu_150911/module/breadcrumbs.php:112
+#: wp_b2_bu_150911/module/meta.php:52 wp_b2_bu_150911/module/meta.php:187
+#: wp_b3/functions.php:309 wp_b3/module/breadcrumbs.php:93
+#: wp_b3/module/breadcrumbs.php:96 wp_b3/module/breadcrumbs.php:101
+#: wp_b3/module/breadcrumbs.php:112 wp_b3/module/meta.php:52
+#: wp_b3/module/meta.php:189
+msgid "Y"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:226
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:175
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:58
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:194
+#: keni70_wp_standerd_rel1/functions.php:221
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:127
+#: keni70_wp_standerd_rel1/module/meta.php:58
+#: keni70_wp_standerd_rel1/module/meta.php:194
+#: keni70_wp_standerd_rel2/functions.php:226
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:175
+#: keni70_wp_standerd_rel2/module/meta.php:58
+#: keni70_wp_standerd_rel2/module/meta.php:194
+#: keni_701_wp_standerd_prototype_20151020/functions.php:222
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:127
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:58
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:194
+#: keni_70_wp_standerd_rc1/functions.php:221
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:127
+#: keni_70_wp_standerd_rc1/module/meta.php:58
+#: keni_70_wp_standerd_rc1/module/meta.php:194
+#: keni_70_wp_standerd_rc4/functions.php:221
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:123
+#: keni_70_wp_standerd_rc4/module/meta.php:54
+#: keni_70_wp_standerd_rc4/module/meta.php:190
+#: keni_70_wp_standerd_rc7/functions.php:228
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:127
+#: keni_70_wp_standerd_rc7/module/meta.php:58
+#: keni_70_wp_standerd_rc7/module/meta.php:194 old_62/functions.php:231
+#: old_62/module/breadcrumbs.php:133 old_62/module/meta.php:65
+#: old_62/module/meta.php:204 rel1/functions.php:219
+#: rel1/module/breadcrumbs.php:127 rel1/module/meta.php:58
+#: rel1/module/meta.php:194 wp_b1/functions.php:241
+#: wp_b1/module/breadcrumbs.php:117 wp_b1/module/breadcrumbs_20150616.php:89
+#: wp_b1/module/meta.php:57 wp_b1/module/meta.php:191 wp_b2/functions.php:316
+#: wp_b2/module/breadcrumbs.php:123 wp_b2/module/meta.php:57
+#: wp_b2/module/meta.php:193 wp_b2_bu_150911/functions.php:323
+#: wp_b2_bu_150911/module/breadcrumbs.php:123
+#: wp_b2_bu_150911/module/meta.php:57 wp_b2_bu_150911/module/meta.php:191
+#: wp_b3/functions.php:311 wp_b3/module/breadcrumbs.php:123
+#: wp_b3/module/meta.php:57 wp_b3/module/meta.php:193
+msgid "Archive List for authors"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:230
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:203
+#: keni70_wp_standerd_rel1/functions.php:225
+#: keni70_wp_standerd_rel1/module/meta.php:203
+#: keni70_wp_standerd_rel2/functions.php:230
+#: keni70_wp_standerd_rel2/module/meta.php:203
+#: keni_701_wp_standerd_prototype_20151020/functions.php:226
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:203
+#: keni_70_wp_standerd_rc1/functions.php:225
+#: keni_70_wp_standerd_rc1/module/meta.php:203
+#: keni_70_wp_standerd_rc4/functions.php:225
+#: keni_70_wp_standerd_rc4/module/meta.php:199
+#: keni_70_wp_standerd_rc7/functions.php:232
+#: keni_70_wp_standerd_rc7/module/meta.php:203 old_62/functions.php:238
+#: old_62/module/meta.php:213 rel1/functions.php:223 rel1/module/meta.php:203
+#: wp_b1/functions.php:245 wp_b1/module/meta.php:200 wp_b2/functions.php:320
+#: wp_b2/module/meta.php:202 wp_b2_bu_150911/functions.php:327
+#: wp_b2_bu_150911/module/meta.php:200 wp_b3/functions.php:315
+#: wp_b3/module/meta.php:202
+#, php-format
+msgid "Tag List for %s"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:232
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:64
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:209
+#: keni70_wp_standerd_rel1/functions.php:227
+#: keni70_wp_standerd_rel1/module/meta.php:64
+#: keni70_wp_standerd_rel1/module/meta.php:209
+#: keni70_wp_standerd_rel2/functions.php:232
+#: keni70_wp_standerd_rel2/module/meta.php:64
+#: keni70_wp_standerd_rel2/module/meta.php:209
+#: keni_701_wp_standerd_prototype_20151020/functions.php:228
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:64
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:209
+#: keni_70_wp_standerd_rc1/functions.php:227
+#: keni_70_wp_standerd_rc1/module/meta.php:64
+#: keni_70_wp_standerd_rc1/module/meta.php:209
+#: keni_70_wp_standerd_rc4/functions.php:227
+#: keni_70_wp_standerd_rc4/module/meta.php:60
+#: keni_70_wp_standerd_rc4/module/meta.php:205
+#: keni_70_wp_standerd_rc7/functions.php:234
+#: keni_70_wp_standerd_rc7/module/meta.php:64
+#: keni_70_wp_standerd_rc7/module/meta.php:209 old_62/functions.php:241
+#: old_62/module/breadcrumbs.php:41 old_62/module/breadcrumbs.php:139
+#: old_62/module/meta.php:71 old_62/module/meta.php:219 rel1/functions.php:225
+#: rel1/module/meta.php:64 rel1/module/meta.php:209 wp_b1/functions.php:247
+#: wp_b1/module/breadcrumbs_20150616.php:34 wp_b1/module/meta.php:63
+#: wp_b1/module/meta.php:206 wp_b2/functions.php:322 wp_b2/module/meta.php:63
+#: wp_b2/module/meta.php:208 wp_b2_bu_150911/functions.php:329
+#: wp_b2_bu_150911/module/meta.php:63 wp_b2_bu_150911/module/meta.php:206
+#: wp_b3/functions.php:317 wp_b3/module/meta.php:63 wp_b3/module/meta.php:208
+msgid "Archive List for blog"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:257
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:119
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:66
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:219
+#: keni70_wp_standerd_rel1/functions.php:245
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:72
+#: keni70_wp_standerd_rel1/module/meta.php:66
+#: keni70_wp_standerd_rel1/module/meta.php:219
+#: keni70_wp_standerd_rel2/functions.php:257
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:119
+#: keni70_wp_standerd_rel2/module/meta.php:66
+#: keni70_wp_standerd_rel2/module/meta.php:219
+#: keni_701_wp_standerd_prototype_20151020/functions.php:246
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:72
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:66
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:219
+#: keni_70_wp_standerd_rc1/functions.php:245
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:72
+#: keni_70_wp_standerd_rc1/module/meta.php:66
+#: keni_70_wp_standerd_rc1/module/meta.php:219
+#: keni_70_wp_standerd_rc4/functions.php:245
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:68
+#: keni_70_wp_standerd_rc4/module/meta.php:62
+#: keni_70_wp_standerd_rc4/module/meta.php:215
+#: keni_70_wp_standerd_rc7/functions.php:252
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:72
+#: keni_70_wp_standerd_rc7/module/meta.php:66
+#: keni_70_wp_standerd_rc7/module/meta.php:219 old_62/functions.php:259
+#: old_62/index.php:78 old_62/module/breadcrumbs.php:184
+#: old_62/module/meta.php:73 old_62/module/meta.php:229 rel1/functions.php:243
+#: rel1/module/breadcrumbs.php:72 rel1/module/meta.php:66
+#: rel1/module/meta.php:219 wp_b1/functions.php:265 wp_b1/index.php:46
+#: wp_b1/module/breadcrumbs.php:62 wp_b1/module/breadcrumbs_20150616.php:130
+#: wp_b1/module/meta.php:65 wp_b1/module/meta.php:216 wp_b2/functions.php:340
+#: wp_b2/module/breadcrumbs.php:68 wp_b2/module/meta.php:65
+#: wp_b2/module/meta.php:218 wp_b2_bu_150911/functions.php:347
+#: wp_b2_bu_150911/module/breadcrumbs.php:68
+#: wp_b2_bu_150911/module/meta.php:65 wp_b2_bu_150911/module/meta.php:216
+#: wp_b3/functions.php:335 wp_b3/module/breadcrumbs.php:68
+#: wp_b3/module/meta.php:65 wp_b3/module/meta.php:218
+#, php-format
+msgid "Search Result for %s"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:293
+#: keni70_wp_standerd_rel1/functions.php:274
+#: keni70_wp_standerd_rel2/functions.php:293
+#: keni_701_wp_standerd_prototype_20151020/functions.php:275
+#: keni_70_wp_standerd_rc1/functions.php:274
+#: keni_70_wp_standerd_rc4/functions.php:274
+#: keni_70_wp_standerd_rc7/functions.php:281 old_62/404.php:32
+#: old_62/index.php:51 rel1/functions.php:272 wp_b1/functions.php:290
+#: wp_b2/functions.php:369 wp_b2_bu_150911/functions.php:376
+#: wp_b3/functions.php:364
+msgid "Latest Info"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:301
+#: keni70_wp_standerd_rel1/functions.php:279
+#: keni70_wp_standerd_rel2/functions.php:301
+#: keni_701_wp_standerd_prototype_20151020/functions.php:280
+#: keni_70_wp_standerd_rc1/functions.php:279
+#: keni_70_wp_standerd_rc4/functions.php:279
+#: keni_70_wp_standerd_rc7/functions.php:286 rel1/functions.php:277
+#: wp_b2/functions.php:374 wp_b2_bu_150911/functions.php:381
+#: wp_b3/functions.php:369
+msgid "Your blog&#8217;s WordPress Pages"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:332
+#: keni70_wp_standerd_rel1/functions.php:307
+#: keni70_wp_standerd_rel2/functions.php:332
+#: keni_701_wp_standerd_prototype_20151020/functions.php:308
+#: keni_70_wp_standerd_rc1/functions.php:307
+#: keni_70_wp_standerd_rc4/functions.php:307
+#: keni_70_wp_standerd_rc7/functions.php:314 rel1/functions.php:305
+#: wp_b1/functions.php:309 wp_b2/functions.php:402
+#: wp_b2_bu_150911/functions.php:403 wp_b3/functions.php:397
+msgid "F j"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:338
+#: keni70_wp_standerd_rel1/functions.php:313
+#: keni70_wp_standerd_rel2/functions.php:338
+#: keni_701_wp_standerd_prototype_20151020/functions.php:314
+#: keni_70_wp_standerd_rc1/functions.php:313
+#: keni_70_wp_standerd_rc4/functions.php:313
+#: keni_70_wp_standerd_rc7/functions.php:320 old_62/functions.php:307
+#: rel1/functions.php:311 wp_b1/functions.php:315 wp_b2/functions.php:408
+#: wp_b2_bu_150911/functions.php:409 wp_b3/functions.php:403
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:339
+#: keni70_wp_standerd_rel1/functions.php:314
+#: keni70_wp_standerd_rel2/functions.php:339
+#: keni_701_wp_standerd_prototype_20151020/functions.php:315
+#: keni_70_wp_standerd_rc1/functions.php:314
+#: keni_70_wp_standerd_rc4/functions.php:314
+#: keni_70_wp_standerd_rc7/functions.php:321 old_62/functions.php:309
+#: rel1/functions.php:312 wp_b1/functions.php:316 wp_b2/functions.php:409
+#: wp_b2_bu_150911/functions.php:410 wp_b3/functions.php:404
+#, php-format
+msgid "%s day ago"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:340
+#: keni70_wp_standerd_rel1/functions.php:315
+#: keni70_wp_standerd_rel2/functions.php:340
+#: keni_701_wp_standerd_prototype_20151020/functions.php:316
+#: keni_70_wp_standerd_rc1/functions.php:315
+#: keni_70_wp_standerd_rc4/functions.php:315
+#: keni_70_wp_standerd_rc7/functions.php:322 old_62/functions.php:311
+#: rel1/functions.php:313 wp_b1/functions.php:317 wp_b2/functions.php:410
+#: wp_b2_bu_150911/functions.php:411 wp_b3/functions.php:405
+msgid "Less than a day ago"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:863
+#: keni70_wp_standerd_rel1/functions.php:833
+#: keni70_wp_standerd_rel2/functions.php:863
+#: keni_701_wp_standerd_prototype_20151020/functions.php:834
+#: keni_70_wp_standerd_rc1/functions.php:833
+#: keni_70_wp_standerd_rc4/functions.php:835
+#: keni_70_wp_standerd_rc7/functions.php:844 old_62/functions.php:692
+#: rel1/functions.php:831 wp_b1/functions.php:668 wp_b2/functions.php:979
+#: wp_b2_bu_150911/functions.php:759 wp_b3/functions.php:766
+msgid "Related Posts"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:1781
+#: keni70_wp_standerd_rel1/functions.php:1751
+#: keni70_wp_standerd_rel2/functions.php:1781
+#: keni_701_wp_standerd_prototype_20151020/functions.php:1752
+#: keni_70_wp_standerd_rc1/functions.php:1751
+#: keni_70_wp_standerd_rc4/functions.php:1751
+#: keni_70_wp_standerd_rc7/functions.php:1762 rel1/functions.php:1749
+#: wp_b1/functions.php:1595 wp_b2/functions.php:2090
+#: wp_b2_bu_150911/functions.php:1706 wp_b3/functions.php:1804
+msgid "Keni Settings"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:1811
+#: keni70_wp_standerd_rel1/functions.php:1781
+#: keni70_wp_standerd_rel2/functions.php:1811
+#: keni_701_wp_standerd_prototype_20151020/functions.php:1782
+#: keni_70_wp_standerd_rc1/functions.php:1781
+#: keni_70_wp_standerd_rc4/functions.php:1781
+#: keni_70_wp_standerd_rc7/functions.php:1792 rel1/functions.php:1779
+#: wp_b2/functions.php:2120 wp_b3/functions.php:1834
+msgid "News from Keni support team"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:1841
+#: keni70_wp_standard_prototype_201511061530/functions.php:1842
+#: keni70_wp_standerd_rel1/functions.php:1811
+#: keni70_wp_standerd_rel1/functions.php:1812
+#: keni70_wp_standerd_rel2/functions.php:1841
+#: keni70_wp_standerd_rel2/functions.php:1842
+#: keni_701_wp_standerd_prototype_20151020/functions.php:1812
+#: keni_701_wp_standerd_prototype_20151020/functions.php:1813
+#: keni_70_wp_standerd_rc1/functions.php:1811
+#: keni_70_wp_standerd_rc1/functions.php:1812
+#: keni_70_wp_standerd_rc4/functions.php:1811
+#: keni_70_wp_standerd_rc4/functions.php:1812
+#: keni_70_wp_standerd_rc7/functions.php:1822
+#: keni_70_wp_standerd_rc7/functions.php:1823 rel1/functions.php:1809
+#: rel1/functions.php:1810 wp_b2/functions.php:2150 wp_b2/functions.php:2151
+#: wp_b3/functions.php:1864 wp_b3/functions.php:1865
+msgid "Common Contents"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:1898
+#: keni70_wp_standerd_rel1/functions.php:1867
+#: keni70_wp_standerd_rel2/functions.php:1898
+#: keni_701_wp_standerd_prototype_20151020/functions.php:1869
+#: keni_70_wp_standerd_rc1/functions.php:1867
+#: keni_70_wp_standerd_rc4/functions.php:1868
+#: keni_70_wp_standerd_rc7/functions.php:1878 rel1/functions.php:1865
+#: wp_b2/functions.php:2210 wp_b3/functions.php:1924
+msgid "Landing Pages"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/functions.php:2495
+#: keni70_wp_standerd_rel1/functions.php:2363
+#: keni70_wp_standerd_rel2/functions.php:2498
+#: keni_701_wp_standerd_prototype_20151020/functions.php:2362
+#: keni_70_wp_standerd_rc1/functions.php:2361
+#: keni_70_wp_standerd_rc4/functions.php:2347
+#: keni_70_wp_standerd_rc7/functions.php:2375 rel1/functions.php:2357
+#: wp_b2/functions.php:2943 wp_b3/functions.php:2499
+msgid "Recent Posts with Images"
+msgstr "最近の投稿"
+
+#: keni70_wp_standard_prototype_201511061530/page.php:44
+#: keni70_wp_standard_prototype_201511061530/single.php:47
+#: keni70_wp_standerd_rel1/page.php:34 keni70_wp_standerd_rel1/single.php:48
+#: keni70_wp_standerd_rel2/page.php:44 keni70_wp_standerd_rel2/single.php:47
+#: keni_701_wp_standerd_prototype_20151020/page.php:38
+#: keni_701_wp_standerd_prototype_20151020/single.php:48
+#: keni_70_wp_standerd_rc1/page.php:34 keni_70_wp_standerd_rc1/single.php:48
+#: keni_70_wp_standerd_rc4/page.php:33 keni_70_wp_standerd_rc4/single.php:47
+#: keni_70_wp_standerd_rc7/page.php:34 keni_70_wp_standerd_rc7/single.php:48
+#: rel1/page.php:34 rel1/single.php:48 wp_b2/page.php:33 wp_b2/single.php:36
+#: wp_b3/page.php:33 wp_b3/single.php:47
+msgid "Pages"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/module/add_extra_fields_category.php:34
+#: keni70_wp_standard_prototype_201511061530/module/add_extra_fields_category.php:62
+#: keni70_wp_standerd_rel1/module/add_extra_fields_category.php:34
+#: keni70_wp_standerd_rel1/module/add_extra_fields_category.php:62
+#: keni70_wp_standerd_rel2/module/add_extra_fields_category.php:34
+#: keni70_wp_standerd_rel2/module/add_extra_fields_category.php:62
+#: keni_701_wp_standerd_prototype_20151020/module/add_extra_fields_category.php:34
+#: keni_701_wp_standerd_prototype_20151020/module/add_extra_fields_category.php:62
+#: keni_70_wp_standerd_rc1/module/add_extra_fields_category.php:34
+#: keni_70_wp_standerd_rc1/module/add_extra_fields_category.php:62
+#: keni_70_wp_standerd_rc4/module/add_extra_fields_category.php:34
+#: keni_70_wp_standerd_rc4/module/add_extra_fields_category.php:62
+#: keni_70_wp_standerd_rc7/module/add_extra_fields_category.php:34
+#: keni_70_wp_standerd_rc7/module/add_extra_fields_category.php:62
+#: old_62/module/add_extra_fields_category.php:34
+#: old_62/module/add_extra_fields_category.php:62
+#: rel1/module/add_extra_fields_category.php:34
+#: rel1/module/add_extra_fields_category.php:62
+#: wp_b1/module/add_extra_fields_category.php:34
+#: wp_b1/module/add_extra_fields_category.php:62
+#: wp_b2/module/add_extra_fields_category.php:34
+#: wp_b2/module/add_extra_fields_category.php:62
+#: wp_b2_bu_150911/module/add_extra_fields_category.php:34
+#: wp_b2_bu_150911/module/add_extra_fields_category.php:62
+#: wp_b3/module/add_extra_fields_category.php:34
+#: wp_b3/module/add_extra_fields_category.php:62
+msgid "Text Color"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/module/add_extra_fields_category.php:38
+#: keni70_wp_standard_prototype_201511061530/module/add_extra_fields_category.php:64
+#: keni70_wp_standerd_rel1/module/add_extra_fields_category.php:38
+#: keni70_wp_standerd_rel1/module/add_extra_fields_category.php:64
+#: keni70_wp_standerd_rel2/module/add_extra_fields_category.php:38
+#: keni70_wp_standerd_rel2/module/add_extra_fields_category.php:64
+#: keni_701_wp_standerd_prototype_20151020/module/add_extra_fields_category.php:38
+#: keni_701_wp_standerd_prototype_20151020/module/add_extra_fields_category.php:64
+#: keni_70_wp_standerd_rc1/module/add_extra_fields_category.php:38
+#: keni_70_wp_standerd_rc1/module/add_extra_fields_category.php:64
+#: keni_70_wp_standerd_rc4/module/add_extra_fields_category.php:38
+#: keni_70_wp_standerd_rc4/module/add_extra_fields_category.php:64
+#: keni_70_wp_standerd_rc7/module/add_extra_fields_category.php:38
+#: keni_70_wp_standerd_rc7/module/add_extra_fields_category.php:64
+#: old_62/module/add_extra_fields_category.php:38
+#: old_62/module/add_extra_fields_category.php:64
+#: rel1/module/add_extra_fields_category.php:38
+#: rel1/module/add_extra_fields_category.php:64
+#: wp_b1/module/add_extra_fields_category.php:38
+#: wp_b1/module/add_extra_fields_category.php:64
+#: wp_b2/module/add_extra_fields_category.php:38
+#: wp_b2/module/add_extra_fields_category.php:64
+#: wp_b2_bu_150911/module/add_extra_fields_category.php:38
+#: wp_b2_bu_150911/module/add_extra_fields_category.php:64
+#: wp_b3/module/add_extra_fields_category.php:38
+#: wp_b3/module/add_extra_fields_category.php:64
+msgid "Background Color"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/module/breadcrumbs.php:49
+#: keni70_wp_standerd_rel1/module/breadcrumbs.php:31
+#: keni70_wp_standerd_rel2/module/breadcrumbs.php:49
+#: keni_701_wp_standerd_prototype_20151020/module/breadcrumbs.php:31
+#: keni_70_wp_standerd_rc1/module/breadcrumbs.php:31
+#: keni_70_wp_standerd_rc4/module/breadcrumbs.php:31
+#: keni_70_wp_standerd_rc7/module/breadcrumbs.php:31
+#: old_62/module/breadcrumbs.php:251 rel1/module/breadcrumbs.php:31
+#: wp_b1/module/breadcrumbs_20150616.php:190 wp_b2/module/breadcrumbs.php:31
+#: wp_b2_bu_150911/module/breadcrumbs.php:31 wp_b3/module/breadcrumbs.php:31
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: keni70_wp_standard_prototype_201511061530/module/meta.php:131
+#: keni70_wp_standerd_rel1/module/meta.php:131
+#: keni70_wp_standerd_rel2/module/meta.php:131
+#: keni_701_wp_standerd_prototype_20151020/module/meta.php:131
+#: keni_70_wp_standerd_rc1/module/meta.php:131
+#: keni_70_wp_standerd_rc4/module/meta.php:127
+#: keni_70_wp_standerd_rc7/module/meta.php:131 old_62/module/meta.php:141
+#: rel1/module/meta.php:131 wp_b1/module/meta.php:128
+#: wp_b2/module/meta.php:130 wp_b2_bu_150911/module/meta.php:128
+#: wp_b3/module/meta.php:130
+#, php-format
+msgid "Tag List for %1$s in %2$s"
+msgstr ""
+
+#: keni70_wp_standerd_rel2/functions.php:2312
+msgid "PV Ranking"
+msgstr "PV数ランキング"
+
+#: old_62/comments.php:25 wp_b2_bu_150911/comments.php:25
+#, php-format
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: old_62/functions.php:24 wp_b1/functions.php:23
+msgid "メニュー"
+msgstr ""
+
+#: old_62/functions.php:85 wp_b1/functions.php:92
+#: wp_b2_bu_150911/functions.php:108
+msgid "サイドバー"
+msgstr ""
+
+#: old_62/functions.php:94
+msgid "サブコンテンツ"
+msgstr ""
+
+#: old_62/module/breadcrumbs.php:230 wp_b1/module/breadcrumbs_20150616.php:169
+msgid "Uncategorized"
+msgstr ""
+
+#: wp_b1/functions.php:1625 wp_b2_bu_150911/functions.php:1736
+msgid "News from Ken force support team"
+msgstr ""
+
+#: wp_b1/functions.php:1655 wp_b1/functions.php:1656
+#: wp_b2_bu_150911/functions.php:1766 wp_b2_bu_150911/functions.php:1767
+msgid "共通コンテンツ"
+msgstr ""
+
+#: wp_b1/functions.php:1714 wp_b2_bu_150911/functions.php:1826
+msgid "ランディングページ"
+msgstr ""
+
+#: wp_b2_bu_150911/functions.php:24
+msgid "トップメニュー"
+msgstr ""
+
+#: wp_b2_bu_150911/functions.php:25
+msgid "フッタメニュー"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/settings.php:72
+#, php-format
+msgid "Contact form %d"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:8
+#: 参考プログラム/contact-form-7/modules/flamingo.php:134
+msgid "Contact Form 7"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:9
+msgid "Contact"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:14
+#: 参考プログラム/contact-form-7/admin/edit-contact-form.php:13
+msgid "Edit Contact Form"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:15
+#: 参考プログラム/contact-form-7/admin/admin.php:165
+#: 参考プログラム/contact-form-7/admin/admin.php:221
+#: 参考プログラム/contact-form-7/includes/contact-form.php:29
+msgid "Contact Forms"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:22
+#: 参考プログラム/contact-form-7/admin/admin.php:263
+#: 参考プログラム/contact-form-7/admin/edit-contact-form.php:11
+msgid "Add New Contact Form"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:23
+#: 参考プログラム/contact-form-7/admin/admin.php:223
+#: 参考プログラム/contact-form-7/admin/admin.php:268
+#: 参考プログラム/contact-form-7/admin/admin.php:280
+#: 参考プログラム/contact-form-7/admin/edit-contact-form.php:15
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:59
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1220
+msgid "Add New"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:52
+#: 参考プログラム/contact-form-7/admin/admin.php:73
+msgid "You are not allowed to edit this item."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:112
+msgid "You are not allowed to delete this item."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:115
+msgid "Error in deleting."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:200
+msgid "Generate Tag"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:227
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:236
+msgid "Search Contact Forms"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:267
+#, php-format
+msgid "Use the default language (%s)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:271
+msgid "Or"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:275
+msgid "(select language)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:287
+msgid "Form"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:290
+msgid "Mail"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:293
+msgid "Mail (2)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:298
+msgid "Use mail (2)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:300
+msgid "Messages"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:303
+msgid "Additional Settings"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:318
+msgid "Contact form created."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:320
+msgid "Contact form saved."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:322
+msgid "Contact form deleted."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:339
+msgid "Settings"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:350
+msgid "http://contactform7.com/docs/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:351
+msgid "Docs"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:352
+msgid "http://contactform7.com/faq/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:353
+msgid "FAQ"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:354
+msgid "http://contactform7.com/support/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:355
+msgid "Support"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:356
+#: 参考プログラム/contact-form-7/admin/admin.php:412
+msgid "http://contactform7.com/donate/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:357
+#: 参考プログラム/contact-form-7/admin/admin.php:412
+msgid "Donate"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:379
+#, php-format
+msgid ""
+"<strong>Contact Form 7 %1$s requires WordPress %2$s or higher.</strong> "
+"Please <a href=\"%3$s\">update WordPress</a> first."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:405
+msgid "Dismiss"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:410
+msgid "Contact Form 7 Needs Your Support"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:411
+msgid ""
+"It is hard to continue development and support for this plugin without "
+"contributions from users like you. If you enjoy using Contact Form 7 and "
+"find it useful, please consider making a donation."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:416
+msgid "Get Started"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:418
+msgid "http://contactform7.com/getting-started-with-contact-form-7/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:418
+msgid "Getting Started with Contact Form 7"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:419
+msgid "http://contactform7.com/admin-screen/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:419
+msgid "Admin Screen"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:420
+msgid "http://contactform7.com/tag-syntax/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:420
+msgid "How Tags Work"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:421
+msgid "http://contactform7.com/setting-up-mail/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:421
+msgid "Setting Up Mail"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:426
+msgid "Did You Know?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:428
+msgid "http://contactform7.com/spam-filtering-with-akismet/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:428
+msgid "Spam Filtering with Akismet"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:429
+msgid "http://contactform7.com/save-submitted-messages-with-flamingo/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:429
+msgid "Save Messages with Flamingo"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:430
+msgid "http://contactform7.com/selectable-recipient-with-pipes/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:430
+msgid "Selectable Recipient with Pipes"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:431
+msgid ""
+"http://contactform7.com/tracking-form-submissions-with-google-analytics/"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/admin.php:431
+msgid "Tracking with Google Analytics"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/edit-contact-form.php:47
+msgid ""
+"Copy this code and paste it into your post, page or text widget content."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/edit-contact-form.php:53
+msgid "Old code is also available."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/edit-contact-form.php:61
+msgid "Save"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/edit-contact-form.php:68
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:112
+msgid "Duplicate"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/edit-contact-form.php:73
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:83
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:640
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:924
+msgid "Delete"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/edit-contact-form.php:75
+msgid ""
+"You are about to delete this contact form.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:11
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1409
+msgid "Title"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:12
+msgid "Shortcode"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:13
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1417
+msgid "Author"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:14
+#: 参考プログラム/contact-form-7/modules/date.php:141
+msgid "Date"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:104
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:640
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:924
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1232
+#: 参考プログラム/twentyfifteen/content-link.php:56
+#: 参考プログラム/twentyfifteen/content-page.php:35
+#: 参考プログラム/twentyfifteen/content-search.php:28
+#: 参考プログラム/twentyfifteen/content-search.php:33
+#: 参考プログラム/twentyfifteen/content.php:57
+#: 参考プログラム/twentyfifteen/image.php:71
+msgid "Edit"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:117
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:158
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:165
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/class-contact-forms-list-table.php:167
+msgid "Y/m/d"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:16
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:39
+msgid "Overview"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:21
+msgid "Available Actions"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:30
+msgid "Adding A New Contact Form"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:44
+msgid "Form-tags"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:49
+msgid "Mail-tags"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:61
+msgid ""
+"On this screen, you can manage contact forms provided by Contact Form 7. You "
+"can manage an unlimited number of contact forms. Each contact form has a "
+"unique ID and Contact Form 7 shortcode ([contact-form-7 ...]). To insert a "
+"contact form into a post or a text widget, insert the shortcode into the "
+"target."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:63
+msgid ""
+"Hovering over a row in the contact forms list will display action links that "
+"allow you to manage your contact form. You can perform the following actions:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:64
+msgid ""
+"<strong>Edit</strong> - Navigates to the editing screen for that contact "
+"form. You can also reach that screen by clicking on the contact form title."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:65
+msgid ""
+"<strong>Duplicate</strong> - Clones that contact form. A cloned contact form "
+"inherits all content from the original, but has a different ID."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:67
+msgid ""
+"You can add a new contact form on this screen. You can create a contact form "
+"in your language, which is set WordPress local settings, or in a language "
+"that you select from available options."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:69
+msgid ""
+"On this screen, you can edit a contact form. A contact form is comprised of "
+"the following components:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:70
+msgid ""
+"<strong>Title</strong> is the title of a contact form. This title is only "
+"used for labeling a contact form, and can be edited."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:71
+msgid ""
+"<strong>Form</strong> is a content of HTML form. You can use arbitrary HTML, "
+"which is allowed inside a form element. You can also use Contact Form "
+"7&#8217;s form-tags here."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:72
+msgid ""
+"<strong>Mail</strong> manages a mail template (headers and message body) "
+"that this contact form will send when users submit it. You can use Contact "
+"Form 7&#8217;s mail-tags here."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:73
+msgid ""
+"<strong>Mail (2)</strong> is an additional mail template that works similar "
+"to Mail. Mail (2) is different in that it is sent only when Mail has been "
+"sent successfully."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:74
+msgid ""
+"In <strong>Messages</strong>, you can edit various types of messages used "
+"for this contact form. These messages are relatively short messages, like a "
+"validation error message you see when you leave a required field blank."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:75
+msgid ""
+"<strong>Additional Settings</strong> provides a place where you can "
+"customize the behavior of this contact form by adding code snippets."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:77
+msgid ""
+"A form-tag is a short code enclosed in square brackets used in a form "
+"content. A form-tag generally represents an input field, and its components "
+"can be separated into four parts: type, name, options, and values. Contact "
+"Form 7 supports several types of form-tags including text fields, number "
+"fields, date fields, checkboxes, radio buttons, menus, file-uploading "
+"fields, CAPTCHAs, and quiz fields."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:78
+msgid ""
+"While form-tags have a comparatively complex syntax, you don&#8217;t need to "
+"know the syntax to add form-tags because you can use the straightforward tag "
+"generator (<strong>Generate Tag</strong> button on this screen)."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:80
+msgid ""
+"A mail-tag is also a short code enclosed in square brackets that you can use "
+"in every Mail and Mail (2) field. A mail-tag represents a user input value "
+"through an input field of a corresponding form-tag."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:81
+msgid ""
+"There are also special mail-tags that have specific names, but don&#8217;t "
+"have corresponding form-tags. They are used to represent meta information of "
+"form submissions like the submitter&#8217;s IP address or the URL of the "
+"page."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:89
+msgid "For more information:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:90
+msgid "<a href=\"http://contactform7.com/docs/\" target=\"_blank\">Docs</a>"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:91
+msgid "<a href=\"http://contactform7.com/faq/\" target=\"_blank\">FAQ</a>"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/help-tabs.php:92
+msgid ""
+"<a href=\"http://contactform7.com/support/\" target=\"_blank\">Support</a>"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/meta-boxes.php:47
+msgid "To:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/meta-boxes.php:52
+msgid "From:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/meta-boxes.php:57
+msgid "Subject:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/meta-boxes.php:64
+msgid "Additional headers:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/meta-boxes.php:69
+msgid "File attachments:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/meta-boxes.php:77
+msgid "Use HTML content type"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/meta-boxes.php:83
+msgid "Message body:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/meta-boxes.php:89
+msgid "Exclude lines with blank mail-tags from output"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/admin/includes/meta-boxes.php:117
+msgid "Show all messages"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:23
+msgid "Your Name"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:26
+msgid "Your Email"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:29
+msgid "Subject"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:31
+msgid "Your Message"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:33
+#: 参考プログラム/contact-form-7/modules/submit.php:28
+msgid "Send"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:43
+#, php-format
+msgid "From: %s"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:45
+#, php-format
+msgid "Subject: %s"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:47
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:68
+msgid "Message Body:"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:50
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:71
+#, php-format
+msgid "This e-mail was sent from a contact form on %1$s (%2$s)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:117
+msgid "Sender's message was sent successfully"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:119
+msgid "Your message was sent successfully. Thanks."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:124
+msgid "Sender's message was failed to send"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:126
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:140
+msgid ""
+"Failed to send your message. Please try later or contact the administrator "
+"by another method."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:131
+msgid "Validation errors occurred"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:133
+msgid ""
+"Validation errors occurred. Please confirm the fields and submit it again."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:138
+msgid "Submission was referred to as spam"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:145
+msgid "There are terms that the sender must accept"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:147
+msgid "Please accept the terms to proceed."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:152
+msgid "There is a field that the sender must fill in"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:154
+msgid "Please fill in the required field."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:159
+msgid ""
+"There is a field that the user input is longer than the maximum allowed "
+"length"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:161
+msgid "This input is too long."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:166
+msgid ""
+"There is a field that the user input is shorter than the minimum allowed "
+"length"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form-template.php:168
+msgid "This input is too short."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form.php:30
+msgid "Contact Form"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form.php:76
+#: 参考プログラム/contact-form-7/includes/contact-form.php:226
+msgid "Untitled"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/contact-form.php:152
+#, php-format
+msgid ""
+"<code>%1$s</code> property of a <code>WPCF7_ContactForm</code> object is "
+"<strong>no longer accessible</strong>. Use <code>%2$s</code> method instead."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/controller.php:211
+msgid "Sending ..."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:39
+msgid "Afrikaans"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:40
+msgid "Albanian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:41
+msgid "Arabic"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:42
+msgid "Armenian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:43
+msgid "Azerbaijani"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:44
+msgid "Bangla"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:45
+msgid "Basque"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:46
+msgid "Belarusian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:47
+msgid "Bosnian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:48
+msgid "Bulgarian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:49
+msgid "Catalan"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:50
+msgid "Central Kurdish"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:51
+msgid "Chinese (China)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:52
+msgid "Chinese (Taiwan)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:53
+msgid "Croatian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:54
+msgid "Czech"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:55
+msgid "Danish"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:56
+msgid "Dutch"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:57
+msgid "English (United States)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:58
+msgid "Esperanto"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:59
+msgid "Estonian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:60
+msgid "Finnish"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:61
+msgid "French (France)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:62
+msgid "Galician"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:63
+msgid "Gujarati"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:64
+msgid "Georgian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:65
+msgid "German"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:66
+msgid "Greek"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:67
+msgid "Haitian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:68
+msgid "Hebrew"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:69
+msgid "Hindi"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:70
+msgid "Hungarian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:71
+msgid "Indian Bengali"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:72
+msgid "Indonesian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:73
+msgid "Irish"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:74
+msgid "Italian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:75
+msgid "Japanese"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:76
+msgid "Korean"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:77
+msgid "Latvian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:78
+msgid "Lithuanian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:79
+msgid "Macedonian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:80
+msgid "Malay"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:81
+msgid "Malayalam"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:82
+msgid "Maltese"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:83
+msgid "Norwegian (Bokmål)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:84
+msgid "Persian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:85
+msgid "Polish"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:86
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:87
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:88
+msgid "Punjabi"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:89
+msgid "Russian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:90
+msgid "Romanian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:91
+msgid "Serbian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:92
+msgid "Sinhala"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:93
+msgid "Slovak"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:94
+msgid "Slovene"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:95
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:96
+msgid "Swedish"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:97
+msgid "Tamil"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:98
+msgid "Thai"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:99
+msgid "Tagalog"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:100
+msgid "Turkish"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:101
+msgid "Ukrainian"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/includes/functions.php:102
+msgid "Vietnamese"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/acceptance.php:132
+msgid "Acceptance"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/acceptance.php:146
+#: 参考プログラム/contact-form-7/modules/acceptance.php:149
+#: 参考プログラム/contact-form-7/modules/captcha.php:220
+#: 参考プログラム/contact-form-7/modules/captcha.php:223
+#: 参考プログラム/contact-form-7/modules/captcha.php:228
+#: 参考プログラム/contact-form-7/modules/captcha.php:231
+#: 参考プログラム/contact-form-7/modules/captcha.php:235
+#: 参考プログラム/contact-form-7/modules/captcha.php:246
+#: 参考プログラム/contact-form-7/modules/captcha.php:249
+#: 参考プログラム/contact-form-7/modules/captcha.php:254
+#: 参考プログラム/contact-form-7/modules/captcha.php:257
+#: 参考プログラム/contact-form-7/modules/checkbox.php:300
+#: 参考プログラム/contact-form-7/modules/checkbox.php:303
+#: 参考プログラム/contact-form-7/modules/date.php:163
+#: 参考プログラム/contact-form-7/modules/date.php:166
+#: 参考プログラム/contact-form-7/modules/date.php:171
+#: 参考プログラム/contact-form-7/modules/date.php:174
+#: 参考プログラム/contact-form-7/modules/date.php:179
+#: 参考プログラム/contact-form-7/modules/date.php:184
+#: 参考プログラム/contact-form-7/modules/file.php:238
+#: 参考プログラム/contact-form-7/modules/file.php:241
+#: 参考プログラム/contact-form-7/modules/file.php:246
+#: 参考プログラム/contact-form-7/modules/file.php:249
+#: 参考プログラム/contact-form-7/modules/number.php:173
+#: 参考プログラム/contact-form-7/modules/number.php:176
+#: 参考プログラム/contact-form-7/modules/number.php:181
+#: 参考プログラム/contact-form-7/modules/number.php:184
+#: 参考プログラム/contact-form-7/modules/number.php:189
+#: 参考プログラム/contact-form-7/modules/number.php:194
+#: 参考プログラム/contact-form-7/modules/quiz.php:177
+#: 参考プログラム/contact-form-7/modules/quiz.php:180
+#: 参考プログラム/contact-form-7/modules/quiz.php:185
+#: 参考プログラム/contact-form-7/modules/quiz.php:188
+#: 参考プログラム/contact-form-7/modules/select.php:176
+#: 参考プログラム/contact-form-7/modules/select.php:179
+#: 参考プログラム/contact-form-7/modules/submit.php:59
+#: 参考プログラム/contact-form-7/modules/submit.php:62
+#: 参考プログラム/contact-form-7/modules/submit.php:67
+#: 参考プログラム/contact-form-7/modules/text.php:236
+#: 参考プログラム/contact-form-7/modules/text.php:239
+#: 参考プログラム/contact-form-7/modules/text.php:244
+#: 参考プログラム/contact-form-7/modules/text.php:247
+#: 参考プログラム/contact-form-7/modules/text.php:253
+#: 参考プログラム/contact-form-7/modules/text.php:266
+#: 参考プログラム/contact-form-7/modules/textarea.php:142
+#: 参考プログラム/contact-form-7/modules/textarea.php:145
+#: 参考プログラム/contact-form-7/modules/textarea.php:150
+#: 参考プログラム/contact-form-7/modules/textarea.php:153
+#: 参考プログラム/contact-form-7/modules/textarea.php:158
+#: 参考プログラム/contact-form-7/modules/textarea.php:163
+msgid "optional"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/acceptance.php:155
+msgid "Make this checkbox checked by default?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/acceptance.php:156
+msgid "Make this checkbox work inversely?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/acceptance.php:157
+msgid "* That means visitor who accepts the term unchecks it."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/acceptance.php:162
+#: 参考プログラム/contact-form-7/modules/captcha.php:262
+#: 参考プログラム/contact-form-7/modules/checkbox.php:323
+#: 参考プログラム/contact-form-7/modules/date.php:192
+#: 参考プログラム/contact-form-7/modules/file.php:254
+#: 参考プログラム/contact-form-7/modules/number.php:202
+#: 参考プログラム/contact-form-7/modules/quiz.php:200
+#: 参考プログラム/contact-form-7/modules/select.php:196
+#: 参考プログラム/contact-form-7/modules/submit.php:74
+#: 参考プログラム/contact-form-7/modules/text.php:274
+#: 参考プログラム/contact-form-7/modules/textarea.php:171
+msgid "Copy this code and paste it into the form left."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:19
+msgid ""
+"To use CAPTCHA, you need <a href=\"http://wordpress.org/extend/plugins/"
+"really-simple-captcha/\">Really Simple CAPTCHA</a> plugin installed."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:185
+msgid "The code that sender entered does not match the CAPTCHA"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:186
+msgid "Your entered code is incorrect."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:199
+msgid "CAPTCHA"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:210
+msgid "Note: To use CAPTCHA, you need Really Simple CAPTCHA plugin installed."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:217
+msgid "Image settings"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:228
+msgid "Foreground color"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:231
+msgid "Background color"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:235
+msgid "Image size"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:236
+msgid "Small"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:237
+msgid "Medium"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:238
+msgid "Large"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:243
+msgid "Input field settings"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:263
+msgid "For image"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:265
+msgid "For input field"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:296
+#, php-format
+msgid ""
+"This contact form contains CAPTCHA fields, but the temporary folder for the "
+"files (%s) does not exist or is not writable. You can create the folder or "
+"change its permission manually."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/captcha.php:302
+msgid ""
+"This contact form contains CAPTCHA fields, but the necessary libraries (GD "
+"and FreeType) are not available on your server."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/checkbox.php:268
+msgid "Checkboxes"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/checkbox.php:271
+msgid "Radio buttons"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/checkbox.php:292
+#: 参考プログラム/contact-form-7/modules/date.php:157
+#: 参考プログラム/contact-form-7/modules/file.php:232
+#: 参考プログラム/contact-form-7/modules/number.php:167
+#: 参考プログラム/contact-form-7/modules/select.php:170
+#: 参考プログラム/contact-form-7/modules/text.php:230
+#: 参考プログラム/contact-form-7/modules/textarea.php:136
+msgid "Required field?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/checkbox.php:308
+#: 参考プログラム/contact-form-7/modules/select.php:184
+msgid "Choices"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/checkbox.php:310
+#: 参考プログラム/contact-form-7/modules/select.php:186
+msgid "* One choice per line."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/checkbox.php:314
+msgid "Put a label first, a checkbox last?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/checkbox.php:315
+msgid "Wrap each item with <label> tag?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/checkbox.php:317
+msgid "Make checkboxes exclusive?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/checkbox.php:325
+#: 参考プログラム/contact-form-7/modules/date.php:194
+#: 参考プログラム/contact-form-7/modules/number.php:204
+#: 参考プログラム/contact-form-7/modules/select.php:198
+#: 参考プログラム/contact-form-7/modules/text.php:276
+#: 参考プログラム/contact-form-7/modules/textarea.php:173
+msgid "And, put this code into the Mail fields below."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/date.php:117
+msgid "Date format that the sender entered is invalid"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/date.php:118
+msgid "Date format seems invalid."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/date.php:122
+msgid "Date is earlier than minimum limit"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/date.php:123
+msgid "This date is too early."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/date.php:127
+msgid "Date is later than maximum limit"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/date.php:128
+msgid "This date is too late."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/date.php:184
+#: 参考プログラム/contact-form-7/modules/number.php:194
+#: 参考プログラム/contact-form-7/modules/text.php:266
+#: 参考プログラム/contact-form-7/modules/textarea.php:163
+msgid "Default value"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/date.php:187
+#: 参考プログラム/contact-form-7/modules/number.php:197
+#: 参考プログラム/contact-form-7/modules/text.php:269
+#: 参考プログラム/contact-form-7/modules/textarea.php:166
+msgid "Use this text as placeholder?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:193
+msgid "Uploading a file fails for any reason"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:194
+msgid "Failed to upload file."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:198
+msgid "Uploaded file is not allowed file type"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:199
+msgid "This file type is not allowed."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:203
+msgid "Uploaded file is too large"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:204
+msgid "This file is too large."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:208
+msgid "Uploading a file fails for PHP error"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:209
+msgid "Failed to upload file. Error occurred."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:223
+msgid "File upload"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:246
+msgid "File size limit"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:246
+msgid "bytes"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:249
+msgid "Acceptable file types"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:256
+msgid "And, put this code into the File Attachments field below."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/file.php:282
+#, php-format
+msgid ""
+"This contact form contains file uploading fields, but the temporary folder "
+"for the files (%s) does not exist or is not writable. You can create the "
+"folder or change its permission manually."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/jetpack.php:21
+#, php-format
+msgid ""
+"<strong>Jetpack may cause problems for other plugins in certain cases.</"
+"strong> <a href=\"%s\" target=\"_blank\">See how to avoid it.</a>"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/number.php:120
+msgid "Number format that the sender entered is invalid"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/number.php:121
+msgid "Number format seems invalid."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/number.php:125
+msgid "Number is smaller than minimum limit"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/number.php:126
+msgid "This number is too small."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/number.php:130
+msgid "Number is larger than maximum limit"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/number.php:131
+msgid "This number is too large."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/number.php:144
+msgid "Number (spinbox)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/number.php:147
+msgid "Number (slider)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/quiz.php:149
+msgid "Sender doesn't enter the correct answer to the quiz"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/quiz.php:150
+msgid "Your answer is not correct."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/quiz.php:163
+msgid "Quiz"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/quiz.php:193
+msgid "Quizzes"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/quiz.php:195
+msgid "* quiz|answer (e.g. 1+1=?|2)"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/select.php:161
+msgid "Drop-down menu"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/select.php:190
+msgid "Allow multiple selections?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/select.php:191
+msgid "Insert a blank item as the first option?"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/submit.php:49
+msgid "Submit button"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/submit.php:67
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:598
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:613
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:804
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:816
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:889
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:902
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1183
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1475
+msgid "Label"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:169
+msgid "Email address that the sender entered is invalid"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:170
+msgid "Email address seems invalid."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:174
+msgid "URL that the sender entered is invalid"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:175
+msgid "URL seems invalid."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:179
+msgid "Telephone number that the sender entered is invalid"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:180
+msgid "Telephone number seems invalid."
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:193
+msgid "Text field"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:196
+msgid "Email"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:199
+msgid "URL"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:202
+msgid "Telephone number"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:253
+msgid "Akismet"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:255
+msgid "This field requires author's name"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:257
+msgid "This field requires author's email address"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/text.php:259
+msgid "This field requires author's URL"
+msgstr ""
+
+#: 参考プログラム/contact-form-7/modules/textarea.php:127
+msgid "Text area"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:56
+msgid "Custom Post Types"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:56
+msgid "CPT UI"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:60
+msgid "Manage Post Types"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:61
+msgid "Manage Taxonomies"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:509
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1679
+msgid "Custom Post Type UI"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:509
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1679
+msgid "version"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:511
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:512
+msgid ""
+"Please note that this plugin will NOT handle display of registered post "
+"types or taxonomies in your current theme. It will simply register them for "
+"you."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:513
+msgid ""
+"Q: <strong>How can I display content from a custom post type on my website?</"
+"strong>"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:515
+msgid "A: Justin Tadlock has written some great posts on the topic:"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:516
+msgid "Showing Custom Post Types on your Home Page"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:517
+msgid "Custom Post Types in WordPress"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:519
+msgid ""
+"Q: <strong>How can I add custom meta boxes to my custom post types?</strong>"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:520
+msgid ""
+"A: The More Fields plugin does a great job at creating custom meta boxes and "
+"fully supports custom post types: "
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:521
+msgid ""
+"Q: <strong>I changed my custom post type name and now I can't get to my "
+"posts</strong>"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:522
+msgid ""
+"A: You can either change the custom post type name back to the original name "
+"or try the Post Type Switcher plugin: "
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:527
+msgid "Help Support This Plugin!"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:530
+msgid "PayPal Donation"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:531
+msgid "Professional WordPress<br />Second Edition"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:532
+msgid "Professional WordPress<br />Plugin Development"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:536
+msgid "Please donate to the development<br />of Custom Post Type UI:"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:545
+msgid ""
+"The leading book on WordPress design and development!<br /><strong>Brand new "
+"second edition!"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:546
+msgid "Highest rated WordPress development book on Amazon!"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:549
+msgid "WebDevStudios.com Recent News"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:554
+msgid "WebDevStudios.com News"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:580
+msgid "Custom post type deleted successfully"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:586
+msgid "Manage Custom Post Types"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:587
+msgid ""
+"Deleting custom post types will <strong>NOT</strong> delete any content into "
+"the database or added to those post types.  You can easily recreate your "
+"post types and the content will still exist."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:596
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:611
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:887
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:900
+msgid "Action"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:599
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:614
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:805
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:817
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1291
+msgid "Public"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:600
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:615
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:806
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:818
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:893
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:906
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1301
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1609
+msgid "Show UI"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:601
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:616
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:807
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:819
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:892
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:905
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1336
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1599
+msgid "Hierarchical"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:602
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:617
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:808
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:820
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:894
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:907
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1346
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1629
+msgid "Rewrite"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:603
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:618
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:809
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:821
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:895
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:908
+msgid "Rewrite Slug"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:604
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:619
+msgid "Total Published"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:605
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:620
+msgid "Total Drafts"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:606
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:621
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1407
+msgid "Supports"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:640
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:924
+msgid "Get Code"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:771
+msgid ""
+"Place the below code in your themes functions.php file to manually create "
+"this custom post type."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:772
+msgid ""
+"This is a <strong>BETA</strong> feature. Please <a href=\"https://github.com/"
+"WebDevStudios/custom-post-type-ui\">report bugs</a>."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:793
+msgid "Additional Custom Post Types"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:794
+msgid ""
+"The custom post types below are registered in WordPress but were not created "
+"by the Custom Post Type UI Plugin."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:810
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:822
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1371
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1619
+msgid "Query Var"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:847
+msgid "No additional post types found"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:871
+msgid "Custom taxonomy deleted successfully"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:877
+msgid "Manage Custom Taxonomies"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:878
+msgid ""
+"Deleting custom taxonomies does <strong>NOT</strong> delete any content "
+"added to those taxonomies.  You can easily recreate your taxonomies and the "
+"content will still exist."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:890
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:903
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1188
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1480
+msgid "Singular Label"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:891
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:904
+msgid "Attached Post Types"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1006
+msgid ""
+"Place the below code in your themes functions.php file to manually create "
+"this custom taxonomy"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1007
+msgid ""
+"This is a <strong>BETA</strong> feature. Please <a href=\"http://"
+"webdevstudios.com/support/forum/custom-post-type-ui/\">report bugs</a>."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1063
+msgid "Save Custom Post Type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1065
+msgid "Create Custom Post Type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1091
+msgid "Save Custom Taxonomy"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1093
+msgid "Create Custom Taxonomy"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1110
+msgid ""
+"Custom post type created successfully. You may need to refresh to view the "
+"new post type in the admin menu."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1111
+msgid "Manage custom post types"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1113
+msgid ""
+"Custom taxonomy created successfully.  You may need to refresh to view the "
+"new taxonomy in the admin menu."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1114
+msgid "Manage custom taxonomies"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1122
+msgid "Post type name is a required field."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1125
+msgid "Taxonomy name is a required field."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1128
+msgid "You must assign your custom taxonomy to at least one post type."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1131
+msgid "Please doe not use quotes in your post type slug or rewrite slug."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1134
+msgid "Please doe not use quotes in your taxonomy slug or rewrite slug."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1145
+msgid "Edit Custom Post Type or Taxonomy"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1147
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1154
+msgid "Reset"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1152
+msgid "Create New Custom Post Type or Taxonomy"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1164
+msgid ""
+"If you are unfamiliar with the options below only fill out the <strong>Post "
+"Type Name</strong> and <strong>Label</strong> fields and check which meta "
+"boxes to support.  The other settings are set to the most common defaults "
+"for custom post types. Hover over the question mark for more details."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1175
+msgid "Post Type Name"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1175
+msgid ""
+"The post type name.  Used to retrieve custom post type content.  Should be "
+"short and sweet"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1176
+msgid "(e.g. movie)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1178
+msgid ""
+"Max 20 characters, can not contain capital letters or spaces. Reserved post "
+"types: post, page, attachment, revision, nav_menu_item."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1183
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1220
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1226
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1232
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1238
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1244
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1250
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1256
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1262
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1268
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1274
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1280
+msgid "Post type label.  Used in the admin menu for displaying post types."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1184
+msgid "(e.g. Movies)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1188
+msgid ""
+"Custom Post Type Singular label.  Used in WordPress when a singular label is "
+"needed."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1189
+msgid "(e.g. Movie)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1194
+msgid "Description"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1194
+msgid ""
+"Custom Post Type Description.  Describe what your custom post type is used "
+"for."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1201
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1511
+msgid "Advanced Label Options"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1202
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1512
+msgid "Advanced Options"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1210
+msgid ""
+"Below are the advanced label options for custom post types.  If you are "
+"unfamiliar with these labels, leave them blank and the plugin will "
+"automatically create labels based off of your custom post type name"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1214
+msgid "Menu Name"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1214
+msgid "Custom menu name for your custom post type."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1216
+msgid "(e.g. My Movies)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1222
+msgid "(e.g. Add New)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1226
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1565
+msgid "Add New Item"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1228
+msgid "(e.g. Add New Movie)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1234
+msgid "(e.g. Edit)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1238
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1553
+msgid "Edit Item"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1240
+msgid "(e.g. Edit Movie)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1244
+msgid "New Item"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1246
+msgid "(e.g. New Movie)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1250
+msgid "View"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1252
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1258
+msgid "(e.g. View Movie)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1256
+msgid "View Item"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1262
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1523
+msgid "Search Items"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1264
+msgid "(e.g. Search Movies)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1268
+msgid "Not Found"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1270
+msgid "(e.g. No Movies Found)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1274
+msgid "Not Found in Trash"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1276
+msgid "(e.g. No Movies found in Trash)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1280
+msgid "Parent"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1282
+msgid "(e.g. Parent Movie)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1291
+msgid "Whether posts of this type should be shown in the admin UI"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1294
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1304
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1314
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1324
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1339
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1349
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1364
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1374
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1393
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1612
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1622
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1632
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1649
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1652
+msgid "False"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1295
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1305
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1315
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1325
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1340
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1350
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1365
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1375
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1394
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1613
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1623
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1633
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1650
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1653
+msgid "True"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1296
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1306
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1351
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1366
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1376
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1614
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1624
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1634
+msgid "(default: True)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1301
+msgid "Whether to generate a default UI for managing this post type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1311
+msgid "Has Archive"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1311
+msgid "Whether the post type will have a post type archive page"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1316
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1326
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1341
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1604
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1655
+msgid "(default: False)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1321
+msgid "Exclude From Search"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1321
+msgid "Whether the post type will be searchable"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1331
+msgid "Capability Type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1331
+msgid "The post type to use for checking read, edit, and delete capabilities"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1336
+msgid "Whether the post type can have parent-child relationships"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1346
+msgid "Triggers the handling of rewrites for this post type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1356
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1639
+msgid "Custom Rewrite Slug"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1356
+msgid "Custom slug to use instead of the default."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1357
+msgid "(default: post type name)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1361
+msgid "With Front"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1361
+msgid "Should the permastruct be prepended with the front base."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1381
+msgid "Menu Position"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1381
+msgid ""
+"The position in the menu order the post type should appear. show_in_menu "
+"must be true."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1382
+msgid ""
+"See <a href=\"http://codex.wordpress.org/Function_Reference/"
+"register_post_type#Parameters\">Available options</a> in the \"menu_position"
+"\" section. Range of 5-100"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1388
+msgid "Show in Menu"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1388
+msgid ""
+"Whether to show the post type in the admin menu and where to show that menu. "
+"Note that show_ui must be true"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1389
+msgid ""
+"\"Show UI\" must be \"true\". If an existing top level page such as \"tools."
+"php\" is indicated for second input, post type will be sub menu of that."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1401
+msgid "Menu Icon"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1401
+msgid "URL to image to be used as menu icon."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1409
+msgid "Adds the title meta box when creating content for this custom post type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1410
+msgid "Editor"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1410
+msgid ""
+"Adds the content editor meta box when creating content for this custom post "
+"type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1411
+msgid "Excerpt"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1411
+msgid ""
+"Adds the excerpt meta box when creating content for this custom post type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1412
+msgid "Trackbacks"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1412
+msgid ""
+"Adds the trackbacks meta box when creating content for this custom post type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1413
+msgid "Custom Fields"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1413
+msgid ""
+"Adds the custom fields meta box when creating content for this custom post "
+"type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1414
+msgid "Comments"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1414
+msgid ""
+"Adds the comments meta box when creating content for this custom post type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1415
+msgid "Revisions"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1415
+msgid ""
+"Adds the revisions meta box when creating content for this custom post type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1416
+msgid "Featured Image"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1416
+msgid ""
+"Adds the featured image meta box when creating content for this custom post "
+"type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1417
+msgid ""
+"Adds the author meta box when creating content for this custom post type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1418
+msgid "Page Attributes"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1418
+msgid ""
+"Adds the page attribute meta box when creating content for this custom post "
+"type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1419
+msgid "Post Formats"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1419
+msgid "Adds post format support"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1424
+msgid "Built-in Taxonomies"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1457
+msgid ""
+"If you are unfamiliar with the options below only fill out the "
+"<strong>Taxonomy Name</strong> and <strong>Post Type Name</strong> fields.  "
+"The other settings are set to the most common defaults for custom "
+"taxonomies. Hover over the question mark for more details."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1466
+msgid "Taxonomy Name"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1466
+msgid ""
+"The taxonomy name.  Used to retrieve custom taxonomy content.  Should be "
+"short and sweet"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1467
+msgid ""
+"Note: Changing the name, after adding terms to the taxonomy, will not update "
+"the terms in the database."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1469
+msgid "(e.g. actors)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1470
+msgid ""
+"Max 32 characters, should only contain alphanumeric lowercase characters and "
+"underscores in place of spaces."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1475
+msgid "Taxonomy label.  Used in the admin menu for displaying custom taxonomy."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1476
+msgid "(e.g. Actors)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1480
+msgid ""
+"Taxonomy Singular label.  Used in WordPress when a singular label is needed."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1481
+msgid "(e.g. Actor)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1485
+msgid "Attach to Post Type"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1485
+msgid ""
+"What post type object to attach the custom taxonomy to.  Can be post, page, "
+"or link by default.  Can also be any custom post type name."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1488
+msgid ""
+"This is the old method.  Delete the post type from the textbox and check "
+"which post type to attach this taxonomy to</strong>"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1489
+msgid "(e.g. movies)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1520
+msgid ""
+"Below are the advanced label options for custom taxonomies.  If you are "
+"unfamiliar with these labels the plugin will automatically create labels "
+"based off of your custom taxonomy name"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1523
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1529
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1535
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1541
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1547
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1553
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1559
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1565
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1571
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1577
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1583
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1589
+msgid ""
+"Custom taxonomy label.  Used in the admin menu for displaying taxonomies."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1525
+msgid "(e.g. Search Actors)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1529
+msgid "Popular Items"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1531
+msgid "(e.g. Popular Actors)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1535
+msgid "All Items"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1537
+msgid "(e.g. All Actors)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1541
+msgid "Parent Item"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1543
+msgid "(e.g. Parent Actor)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1547
+msgid "Parent Item Colon"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1549
+msgid "(e.g. Parent Actor:)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1555
+msgid "(e.g. Edit Actor)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1559
+msgid "Update Item"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1561
+msgid "(e.g. Update Actor)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1567
+msgid "(e.g. Add New Actor)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1571
+msgid "New Item Name"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1573
+msgid "(e.g. New Actor Name)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1577
+msgid "Separate Items with Commas"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1579
+msgid "(e.g. Separate actors with commas)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1583
+msgid "Add or Remove Items"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1585
+msgid "(e.g. Add or remove actors)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1589
+msgid "Choose From Most Used"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1591
+msgid "(e.g. Choose from the most used actors)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1599
+msgid "Whether the taxonomy can have parent-child relationships"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1609
+msgid "Whether to generate a default UI for managing this custom taxonomy"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1629
+msgid "Triggers the handling of rewrites for this taxonomy"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1639
+msgid "Custom Taxonomy Rewrite Slug"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1640
+msgid "(default: taxonomy name)"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1645
+msgid "Show Admin Column"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1645
+msgid ""
+"Whether to allow automatic creation of taxonomy columns on associated post-"
+"types."
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1679
+msgid "Please Report Bugs"
+msgstr ""
+
+#: 参考プログラム/custom-post-type-ui/custom-post-type-ui.php:1679
+msgid "Follow on Twitter:"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/archive.php:49
+#: 参考プログラム/twentyfifteen/index.php:46
+#: 参考プログラム/twentyfifteen/search.php:38
+msgid "Previous page"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/archive.php:50
+#: 参考プログラム/twentyfifteen/index.php:47
+#: 参考プログラム/twentyfifteen/search.php:39
+msgid "Next page"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/archive.php:51
+#: 参考プログラム/twentyfifteen/content-link.php:40
+#: 参考プログラム/twentyfifteen/content-page.php:29
+#: 参考プログラム/twentyfifteen/content.php:42
+#: 参考プログラム/twentyfifteen/image.php:63
+#: 参考プログラム/twentyfifteen/index.php:48
+#: 参考プログラム/twentyfifteen/search.php:40
+msgid "Page"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/author-bio.php:34
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 参考プログラム/twentyfifteen/content-link.php:31
+#: 参考プログラム/twentyfifteen/content.php:33
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:238
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/content-link.php:36
+#: 参考プログラム/twentyfifteen/content-page.php:25
+#: 参考プログラム/twentyfifteen/content.php:38
+#: 参考プログラム/twentyfifteen/image.php:59
+msgid "Pages:"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/footer.php:25
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/footer.php:25
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:85
+msgid "Primary Menu"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:86
+msgid "Social Links Menu"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:133
+msgid "Widget Area"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:135
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:161
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:169
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:177
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:185
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:255
+msgid "expand child menu"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/functions.php:256
+msgid "collapse child menu"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/header.php:43
+msgid "Menu and widgets"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/image.php:24
+msgid "Previous Image"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/image.php:24
+msgid "Next Image"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/image.php:84
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/single.php:33
+msgid "Next"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/single.php:34
+msgid "Next post:"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/single.php:36
+msgid "Previous"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/single.php:37
+msgid "Previous post:"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/back-compat.php:37
+#: 参考プログラム/twentyfifteen/inc/back-compat.php:47
+#: 参考プログラム/twentyfifteen/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Twenty Fifteen requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:47
+#: 参考プログラム/twentyfifteen/inc/customizer.php:63
+#: 参考プログラム/twentyfifteen/inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:92
+#: 参考プログラム/xeory_extension/lib/admin/init.php:369
+msgid "Default"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:103
+msgid "Dark"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:114
+msgid "Yellow"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:125
+msgid "Pink"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:136
+msgid "Purple"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/customizer.php:147
+msgid "Blue"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:23
+#: 参考プログラム/xeory_extension/comments.php:21
+#: 参考プログラム/xeory_extension/comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:91
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: 参考プログラム/twentyfifteen/inc/template-tags.php:123
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/comments.php:22
+#: 参考プログラム/xeory_extension/comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/comments.php:23
+#: 参考プログラム/xeory_extension/comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/comments.php:57
+msgid "メールアドレス（公開はされません。）"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/admin/init.php:360
+#: 参考プログラム/xeory_extension/lib/admin/init.php:382
+msgctxt "sample permalink base"
+msgid "archives"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/admin/init.php:366
+msgid "Common Settings"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/admin/init.php:373
+msgid "Day and name"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/admin/init.php:374
+#: 参考プログラム/xeory_extension/lib/admin/init.php:378
+#: 参考プログラム/xeory_extension/lib/admin/init.php:386
+msgctxt "sample permalink structure"
+msgid "sample-post"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/admin/init.php:377
+msgid "Month and name"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/admin/init.php:381
+msgid "Numeric"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/admin/init.php:385
+msgid "Post name"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/admin/init.php:391
+msgid "Custom Structure"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:265
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:324
+msgid "N/A"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:375
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:477
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:479
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:507
+msgid "WP-PostViews"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:490
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:492
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:521
+#, php-format
+msgid "%s Most Viewed Post"
+msgid_plural "%s Most Viewed Posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:495
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:497
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:527
+#, php-format
+msgid "%s Most Viewed Page"
+msgid_plural "%s Most Viewed Pages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:509
+#, php-format
+msgid "<strong>%s</strong> view was generated."
+msgid_plural "<strong>%s</strong> views were generated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:605
+msgid "人気記事一覧"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:650
+msgid "Views"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:733
+msgid "%VIEW_COUNT% views"
+msgstr ""
+
+#: 参考プログラム/xeory_extension/lib/functions/postviews.php:734
+msgid "PV"
+msgstr ""

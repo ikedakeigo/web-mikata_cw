@@ -1,0 +1,467 @@
+@charset "UTF-8";
+td input{ width; auto; }
+
+.form-table tr td label{ margin-right: 1em; }
+
+.post-type-wmc_cc #major-publishing-actions{
+	margin-top: 10px;
+}
+
+.column-id{ width: 3em; }
+.column-name{ width: 15em; }
+.column-thumbnail{ width: 10em; }
+
+.wp-list-table .thumbnail img{
+	width: 50%;
+	height: 50%;
+}
+
+.title_count_area{
+	margin-top: 5px;
+	padding: 0 10px;
+}
+
+#wmc_seo_link{
+	margin-top: 8px;
+	padding: 2px 0 1px 0;
+	height: auto !important;
+}
+
+#add-wmc_cc{
+	display: none;
+}
+
+@media screen and (max-width: 782px){
+	#wmc_seo_link{
+		padding: 30px 0 0;
+	}
+}
+
+#wmc_seo_link:before{
+	display: inline-block;
+	position: relative;
+	top: -1px;
+	left: -1px;
+	vertical-align: top;
+	padding: 0 2px 0 0;
+	color: #82878c;
+	font: normal 20px/1 'dashicons';
+	text-decoration: none !important;
+	content: "\f147";
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+input[id^="qt_content_char"] {
+	padding-left: 24px!important;
+	background: url(./images/icon/icon-qt_content_char.png) 8px center no-repeat!important;
+}
+
+input[id^="qt_content_cc"] {
+	padding-left: 24px!important;
+	background: url(./images/icon/icon-qt_content_cc.png) 8px center no-repeat!important;
+}
+
+.inside table{ max-width: 100%; }
+
+.inside img{
+	max-width: 100%;
+	height: auto;
+}
+
+.value-list{
+	margin-bottom: 3em;
+}
+
+.value-list li{
+	display: inline;
+	margin-right: 1em;
+}
+
+.value-list:last-child{
+	margin-bottom: 0;
+}
+
+.wmc-sub-title{
+	margin: 1.33em 0 1em;
+}
+
+@media screen and (max-width: 782px){
+	.value-list li{
+		display: list-item;
+		margin-right: 0;
+		margin-bottom: 1em;
+	}
+}
+
+.wmc_h1_textbox,
+.wmc_canonical_textbox,
+.wmc_ogp_title input[type="text"],
+.wmc_ogp_description input[type="text"],
+#h1 input[type="text"],
+#lp_catch input[type="text"],
+#header_img input[type="text"],
+#twc input[type="text"]{ width: 98%; }
+
+.regular-text{ max-width: 98%; }
+
+.wmc_textarea{
+  margin: 0;
+  height: 4em;
+  width: 98%;
+}
+
+.wmc_h1_textarea{
+  margin: 0;
+  width: 98%;
+}
+
+.wmc_relation_lists input[type=text]{ max-width: 90%; }
+
+.wmc_note{ color: #a00; }
+
+#wmc_noreg_msg{
+	margin: 1em 1em 1em 0;
+	padding: 1em;
+	border: 3px solid #db1b1b;
+	font-weight: bold;
+}
+
+#wmc_noreg_msg p{ margin: 0; }
+
+.select-lo{
+	position: absolute;
+	left: -9999px;
+}
+
+.lo-def,
+.lo-col1,
+.lo-col2,
+.lo-col2r{
+	display: inline-block;
+	margin-right: 1em;
+	margin-bottom: 1em;
+}
+
+.lo-def span,
+.lo-col1 span,
+.lo-col2 span,
+.lo-col2r span{
+	position: relative;
+	display: block;
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+}
+
+.inside .lo-def span img,
+.inside .lo-col1 span img,
+.inside .lo-col2 span img,
+.inside .lo-col2r span img{
+	max-width: none;
+}
+
+.checked-lo span img{
+	margin-left: -100px;	
+}
+
+.col1 {
+	background-image:url(images/col1.png);
+}
+
+.col2 {
+	background-image:url(images/col2.png);
+}
+
+.col2r {
+	background-image:url(images/col2r.png);
+}
+
+/*吹き出し*/
+.chat-l,
+.chat-r{
+	position: relative;
+	overflow: hidden;
+	margin: 0;
+}
+
+.bubble{
+	display: block;
+	position: relative;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 80%;
+	min-height: 60px;
+	margin-bottom: 2em;
+	padding: 1em;
+	border: 1px solid #ccc;
+	background: #fff;
+}
+
+.bubble .bubble-in{
+	border-color: #fff;
+}
+
+.talker{
+	display: block;
+	width: 15%;
+	height: auto;
+	text-align: center;
+}
+
+.talker b{
+	font-weight: normal;
+}
+
+.talker img{
+	display: block;
+	width: 100px;
+	max-width: 100%;
+	max-width: none\9;/*IE8への対応*/
+	margin: auto;
+}
+
+.chat-l .talker{
+	float: left;
+	margin-right: 2%;
+}
+
+.chat-r .talker{
+	float: right;
+	margin-left: 2%;
+}
+
+.chat-l .bubble{
+	float: right;
+}
+
+.chat-r .bubble{
+	float: left;
+}
+
+.bubble .bubble-in:after,
+.bubble .bubble-in:before{
+	position: absolute;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border: solid transparent;
+	content: "";
+}
+
+/*吹き出しの微調整*/
+.bubble .b-arw20:after,
+.bubble .b-arw20:before{ top: 20%; }
+.bubble .b-arw30:after,
+.bubble .b-arw30:before{ top: 30%; }
+.bubble .b-arw40:after,
+.bubble .b-arw40:before{ top: 40%; }
+.bubble .b-arw60:after,
+.bubble .b-arw60:before{ top: 60%; }
+.bubble .b-arw70:after,
+.bubble .b-arw70:before{ top: 70%; }
+.bubble .b-arw80:after,
+.bubble .b-arw80:before{ top: 80%; }
+
+.chat-l .bubble .bubble-in:after,
+.chat-l .bubble .bubble-in:before{
+	right: 100%;
+}
+
+.chat-r .bubble div:after,
+.chat-r .bubble div:before{
+	left: 100%;
+}
+
+.chat-l .bubble .bubble-in:after{
+	margin-top: -8px;
+	border-width: 8px 20px;
+	border-color: transparent;
+	border-right-color: inherit;
+}
+
+.chat-l .bubble .bubble-in:before{
+	margin-top: -9px;
+	border-width: 9px 21px;
+	border-color: transparent;
+	border-right-color: #ccc;
+}
+
+.chat-r .bubble .bubble-in:after{
+	margin-top: -8px;
+	border-width: 8px 20px;
+	border-color: transparent;
+	border-left-color: inherit;
+}
+
+.chat-r .bubble .bubble-in:before{
+	margin-top: -9px;
+	border-width: 9px 21px;
+	border-color: transparent;
+	border-left-color: #ccc;
+}
+
+.bubble p:first-child{
+	margin-top: 0;
+}
+
+/*吹き出し 会話者が複数人の場合*/
+.together .talker,
+.together .bubble{
+	width: 100%;
+}
+
+.together .talker b{
+	display: inline-block;
+	text-align: center;
+}
+
+.together.chat-l .talker,
+.together.chat-r .talker{
+	float: none;
+	margin: 0 0 20px;
+}
+
+.together.chat-l .talker{
+	text-align: left;
+}
+
+.together.chat-r .talker{
+	text-align: right;
+}
+
+.together.chat-l .bubble,
+.together.chat-r .bubble{
+	float: none;
+}
+
+.together .bubble .bubble-in:after,
+.together .bubble .bubble-in:before{
+	top: auto;
+	bottom: 100%;
+}
+
+.together.chat-l .bubble .bubble-in:after,
+.together.chat-l .bubble .bubble-in:before{
+	right: auto;
+	left: 10%;
+}
+
+.together.chat-r .bubble .bubble-in:after,
+.together.chat-r .bubble .bubble-in:before{
+	right: 10%;
+	left: auto;
+}
+
+.together.chat-l .bubble .bubble-in:after{
+	margin-top: -20px;
+	margin-left: -8px;
+	border-width: 20px 8px;
+	border-color: transparent;
+	border-bottom-color: inherit;
+}
+
+.together.chat-l .bubble .bubble-in:before{
+	margin-top: -21px;
+	margin-left: -9px;
+	border-width: 21px 9px;
+	border-color: transparent;
+	border-bottom-color: #ccc;
+}
+
+.together.chat-r .bubble .bubble-in:after{
+	border-width: 20px 8px;
+	margin-top: -20px;
+	margin-right: -8px;
+	border-color: transparent;
+	border-bottom-color: inherit;
+}
+
+.together.chat-r .bubble .bubble-in:before{
+	margin-top: -21px;
+	margin-right: -9px;
+	border-width: 21px 9px;
+	border-color: transparent;
+	border-bottom-color: #ccc;
+}
+
+.bubble-in p:last-child{
+	margin-bottom: 0;
+}
+
+.rc8{ border-radius: 8px; }
+
+.circle{ border-radius: 50%; }
+
+@media
+only screen and (max-width : 1200px){
+
+	/*吹き出し*/
+	.bubble{
+		width: 70%;
+	}
+	
+	.talker{
+		width: 25%;
+	}
+	
+	.bubble .bubble-in:after,
+	.bubble .bubble-in:before{
+		top: 30px;
+	}
+	
+	.together .bubble,
+	.together .talker{
+		width: 100%;
+	}
+	
+	.together .talker b{
+		max-width: 25%;
+	}
+
+}
+
+/*フォームの調整*/
+#twc th,
+#ogp th{
+	vertical-align: top;
+	text-align: left;
+}
+
+#twc th,
+#twc td,
+#ogp th,
+#ogp td{
+	padding: 0.5em;
+}
+
+@media screen and (max-width: 782px){
+	#twc input[type="text"],
+	#lp_catch input[type="text"],
+	#header_img input[type="text"],
+	#page_tags textarea{
+		width: 100%;
+	}
+}
+
+/*会話設定*/
+@media screen and (max-width: 782px){
+	#char-list thead{
+		display: none;
+	}
+
+	#char-list tbody td:nth-child(1),
+	#char-list tbody td:nth-child(2){
+		display: inline-block;
+	}
+
+	#char-list tbody td:last-child{
+		border-bottom: 1px solid #ccc;
+	}
+
+}
+
+/*---------------------------------------------------------------------
+	generated by Template Maker Ver.7.0 on 2016-01-07 09:29:16
+----------------------------------------------------------------------*/
